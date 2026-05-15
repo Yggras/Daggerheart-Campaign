@@ -11,6 +11,7 @@ Es gibt drei Schichten:
 - `raw/`: unveraenderliche Quellen. Hier liegen Originale, Clippings, PDFs, Bilder, Transkripte und importierte Notizen. Quellen werden gelesen, aber nicht inhaltlich veraendert.
 - `wiki/`: LLM-generiertes und LLM-gepflegtes Wissen. Hier entstehen Zusammenfassungen, Entitaetsseiten, Konzepte, Ereignisse, Sitzungen, Synthesen und gespeicherte Antworten.
 - `AGENTS.md`: diese Betriebsanleitung. Sie definiert Konventionen, Workflows und Qualitaetskriterien fuer die Pflege des Wikis.
+- Wenn der Nutzer `agents.md` schreibt, ist immer `AGENTS.md` gemeint. Lege keine separate Datei `agents.md` an.
 
 Die Wiki-Schicht ist ein kompilierter Wissensstand, kein Chatverlauf. Neue Quellen werden nicht nur indexiert, sondern in bestehende Seiten integriert. Das Wiki dient dazu, Kampagnenwissen dauerhaft festzuhalten, zu verknuepfen und weiterzuentwickeln: Weltbau, Magie, Fraktionen, NPCs, Orte, Konflikte, Sitzungen, offene Fragen und laufende Konsequenzen.
 
@@ -159,17 +160,52 @@ Dieser Vault ist fuer eine Daggerheart-Kampagne gedacht. Behandle folgende Seite
 
 Bei Kampagnenwissen ist Kontinuitaet wichtiger als Vollstaendigkeit. Wenn eine Information unsicher ist, deutlich als unsicher markieren statt sie zu erfinden.
 
-## Daggerheart Weltbau-Fokus
+## Weltbau-Fokus
 
-Achte bei jeder neuen Quelle besonders auf Antworten zu folgenden Leitfragen und webe sie in die Wiki-Seiten ein:
+Die Kampagnenwelt heisst [[wiki/entities/places/weyard|Weyard]]. Weyard ist eine flache Welt; ihre Ozeane stuerzen am Rand in einen Abgrund. Magie heisst [[wiki/concepts/psynergy|Psynergy]] und basiert auf vier Elementen: [[wiki/concepts/venus|Venus]] fuer Erde und Natur, [[wiki/concepts/mars|Mars]] fuer Feuer, [[wiki/concepts/jupiter|Jupiter]] fuer Wind sowie [[wiki/concepts/merkur|Merkur]] fuer Wasser und Eis. Die ultimative Kraft [[wiki/concepts/alchemie|Alchemie]] wurde vor langer Zeit versiegelt.
 
-- Woher kommt die Magie in dieser Welt?
-- Was bedroht die Welt, z. B. Monster, Umwelteinfluesse oder politische Spannungen?
-- Was schaetzen die Bewohner, z. B. Werte, Glauben, Traditionen oder soziale Bindungen?
-- Wie sieht das taegliche Leben einer normalen Person in dieser Welt aus?
-- Welche Rolle spielen Goetter in der Welt?
+Pruefe bei jedem neuen Textfetzen, jeder Quelle und jeder Notiz im `raw/`-Ordner, wie sie sich zu diesen Grundelementen verhaelt. Integriere relevante Beobachtungen in bestehende Wiki-Seiten und setze passende Querverweise, statt isolierte Eintraege zu erzeugen.
 
-Wenn eine Quelle keine klare Antwort auf eine Leitfrage gibt, halte das als offene Frage fest, statt eine Antwort zu erfinden.
+Leitfragen fuer jeden Ingest:
+
+- Sagt die Quelle etwas ueber Weyard als flache Welt, den Weltrand, den Abgrund, Ozeane, Geografie oder kosmologische Grenzen?
+- Welche Rolle spielt Psynergy in der Quelle: als Alltagsfaehigkeit, seltenes Talent, Gefahr, Machtmittel, Religion, Technik oder Konfliktursache?
+- Welchem Element oder welchen Elementen laesst sich eine Psynergy, Person, Kreatur, Fraktion, Region, Tradition oder ein Artefakt zuordnen: Venus, Mars, Jupiter oder Merkur?
+- Gibt es Hinweise darauf, dass ein Element anders verstanden wird als bisher, z. B. Venus als Naturkraft statt nur Erde oder Merkur als Eis statt nur Wasser?
+- Erwaehnt die Quelle Alchemie, ihr Siegel, alte Technologien, verlorenes Wissen, Leuchttuerme, Relikte, Tabus oder Bestrebungen, die Versiegelung zu brechen oder zu bewahren?
+- Veraendert die Quelle das Verstaendnis davon, warum Alchemie versiegelt wurde, wer davon profitiert oder welche Folgen eine Rueckkehr der Alchemie haette?
+- Entstehen aus der Quelle neue offene Fragen zu Psynergy, der flachen Welt, dem Weltrand oder Alchemie?
+
+Ingest-Regeln fuer diesen Weltbau-Fokus:
+
+- Lege fuer zentrale Konzepte eigene Konzeptseiten an oder aktualisiere sie: `psynergy`, `venus`, `mars`, `jupiter`, `merkur`, `alchemie`, `weyard`, `weltrand` und verwandte Themen.
+- Verlinke jede relevante Erwaehnung von Psynergy, Elementen, Weyard, Weltrand oder Alchemie mit Obsidian-Wikilinks auf die kanonische Seite.
+- Markiere Aussagen als Fakt, Interpretation oder Spekulation, besonders bei Herkunft, Grenzen und Folgen von Psynergy oder Alchemie.
+- Wenn eine Quelle keine klare Einordnung erlaubt, erfinde keine Elementzuordnung. Halte die Unsicherheit auf der betroffenen Seite oder in `wiki/questions/open-questions.md` fest.
+- Bei Widerspruechen zur flachen Welt, zur Elementlehre oder zur versiegelten Alchemie nicht glaetten. Dokumentiere den Widerspruch unter `## Widersprueche / Unsicherheiten`.
+- Aktualisiere bei relevanten Funden mindestens die betroffene Source-Summary, die passende Konzept- oder Entitaetsseite, `wiki/index.md` und `wiki/log.md`.
+- Behandle Psynergy, die flache Welt Weyard und die versiegelte Alchemie als Kernpfeiler der Kampagnenkontinuitaet. Neue Informationen sollen diese Pfeiler bestaetigen, praezisieren, erweitern oder explizit als Widerspruch markieren.
+
+## Dschinn-Mechanik
+
+Dschinns sind findbare und ausruestbare Elementargeister aus [[wiki/entities/places/weyard|Weyard]]. Sie gehoeren jeweils zu einem der vier Psynergy-Elemente [[wiki/concepts/venus|Venus]], [[wiki/concepts/mars|Mars]], [[wiki/concepts/jupiter|Jupiter]] oder [[wiki/concepts/merkur|Merkur]] und verbinden Golden-Sun-Lore mit Daggerheart-Regeln.
+
+Regelrahmen:
+
+- Ein ausgeruesteter Dschinn gibt einen passiven Bonus, der wie eine Daggerheart-Experience formuliert wird: knapp, erzaehlerisch nutzbar und breit genug, um in passenden Szenen eingebracht zu werden.
+- Ein Spieler kann einen ausgeruesteten Dschinn im Kampf oder in einer dramatischen Szene entfesseln. Dieser Entfesselt-Effekt ist ein massiver narrativer Effekt, kein kleinteiliger Schadenszauber.
+- Nach dem Entfesseln ist der Dschinn erschoepft. Sein passiver Bonus gilt nicht mehr, bis die Gruppe eine Rast einlegt oder die Quelle explizit eine andere Erholungsbedingung nennt.
+- Entfesselte Dschinns sollen mit Daggerhearts Hope und Fear verknuepft werden: Hope zeigt Kontrolle, Schutz, Durchbruch oder heroische Wendung; Fear zeigt Kosten, Kontrollverlust, Kollateralschaden, Aufmerksamkeit feindlicher Maechte oder eine neue Komplikation.
+- Ein Dschinn wird durch Entfesseln nicht verbraucht und bleibt Teil der Kampagne, solange keine Quelle etwas anderes sagt.
+
+Ingest-Regeln fuer Dschinns:
+
+- Wenn in `raw/` ein neuer Dschinn gefunden, benannt oder klar angedeutet wird, lege automatisch eine eigene Wiki-Seite unter `wiki/entities/items/` an oder aktualisiere die bestehende Seite.
+- Die Dschinn-Seite muss mindestens Name, Element, Fundort oder Quelle, aktuellen Besitzer oder Status, passiven Bonus, Entfesselt-Effekt, Hope-Deutung, Fear-Deutung und Quellen enthalten.
+- Wenn passiver Bonus oder Entfesselt-Effekt nicht aus der Quelle hervorgehen, erfinde keine Werte. Markiere die Seite als `needs-review` und erfasse die Luecke in `wiki/questions/open-questions.md`.
+- Verlinke jeden Dschinn mit seinem Element, [[wiki/concepts/psynergy|Psynergy]], relevanten Charakteren, Fundorten und Ereignissen.
+- Aktualisiere bei jedem neuen oder veraenderten Dschinn mindestens die betroffene Source-Summary, die Dschinn-Seite, `wiki/index.md` und `wiki/log.md`.
+- Halte mechanische Formulierungen knapp und spielbar. Beschreibe zuerst den narrativen Zweck, dann den passiven Bonus und den Entfesselt-Effekt.
 
 ## Schreibstil
 
