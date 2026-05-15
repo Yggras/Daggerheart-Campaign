@@ -197,6 +197,19 @@
   },
   "active": "76f30f20b8618556",
   "lastOpenFiles": [
+    "raw/inbox/12-glossar.md",
+    "raw/inbox/11-offene-fragen-und-entscheidungen.md",
+    "raw/inbox/10-erster-handlungsbogen.md",
+    "raw/inbox/09-session-zero.md",
+    "raw/inbox/08-nsc-und-schluesselfiguren.md",
+    "raw/inbox/07-orte-und-regionen.md",
+    "raw/inbox/06-fraktionen.md",
+    "raw/inbox/05-dschinn-regelrahmen.md",
+    "raw/inbox/04-elemente-und-psynergy.md",
+    "raw/inbox/03-weyard-und-kosmologie.md",
+    "raw/inbox/02-praemisse-und-ton.md",
+    "raw/inbox/01-kampagnenueberblick.md",
+    "raw/inbox/00-kanon-und-adaptionspolitik.md",
     "agents.md",
     "templates/question-answer.md",
     "templates/synthesis.md",
@@ -210,7 +223,6 @@
     "notes/inbox/README.md",
     "raw/README.md",
     "Home.md",
-    "AGENTS.md",
     "templates",
     "notes/inbox",
     "notes",
@@ -220,8 +232,6 @@
     "wiki/events",
     "wiki/concepts",
     "wiki/entities/items",
-    "wiki/entities/factions",
-    "Welcome.md",
-    "test.md"
+    "wiki/entities/factions"
   ]
 }
