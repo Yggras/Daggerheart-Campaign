@@ -2,15 +2,15 @@
 type: source-summary
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [02-praemisse-und-ton]
 tags: [source, tone, premise]
 ---
 
 # Praemisse und Ton
 
-**Quelle:** `raw/inbox/02-praemisse-und-ton.md`  
-**Datum ingestiert:** 2026-05-15  
+**Quelle:** `raw/sources/02-praemisse-und-ton.md`
+**Datum ingestiert:** 2026-05-15
 **Typ:** other
 
 ## Summary
@@ -40,13 +40,13 @@ Diese Quelle praezisiert Ton, Genre und Spielleitungsfragen fuer [[wiki/synthese
 
 ## Quellen
 
-- `raw/inbox/02-praemisse-und-ton.md`
+- `raw/sources/02-praemisse-und-ton.md`
 
-[^1]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/inbox/02-praemisse-und-ton.md:3-8 [synthesis] - Ausgangslage und Nebenfolgen werden dort beschrieben.
-[^2]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/inbox/02-praemisse-und-ton.md:9-24 [synthesis] - Die SC-Rolle und ihre Handlungsoptionen werden dort gesetzt.
-[^3]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/inbox/02-praemisse-und-ton.md:26-33 [synthesis] - Tonalitaet wird als Liste definiert.
-[^4]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/inbox/02-praemisse-und-ton.md:82-86 [synthesis] - Hope/Fear werden dort fuer Psynergy gedeutet.
-[^5]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/inbox/02-praemisse-und-ton.md:59-80 [synthesis] - Die Bedrohungsstufen reichen von Mine bis Weltrand.
-[^6]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/inbox/02-praemisse-und-ton.md:42-49 [synthesis] - Die Themenfragen benennen die moralischen Achsen.
-[^7]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/inbox/02-praemisse-und-ton.md:51-58 [synthesis] - Die Nicht-Themen grenzen die Kampagne ab.
-[^8]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/inbox/02-praemisse-und-ton.md:88-96 [synthesis] - Die Leitfragen fuer die Spielleitung stehen dort.
+[^1]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/sources/02-praemisse-und-ton.md:3-8 [synthesis] - Ausgangslage und Nebenfolgen werden dort beschrieben.
+[^2]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/sources/02-praemisse-und-ton.md:9-24 [synthesis] - Die SC-Rolle und ihre Handlungsoptionen werden dort gesetzt.
+[^3]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/sources/02-praemisse-und-ton.md:26-33 [synthesis] - Tonalitaet wird als Liste definiert.
+[^4]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/sources/02-praemisse-und-ton.md:82-86 [synthesis] - Hope/Fear werden dort fuer Psynergy gedeutet.
+[^5]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/sources/02-praemisse-und-ton.md:59-80 [synthesis] - Die Bedrohungsstufen reichen von Mine bis Weltrand.
+[^6]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/sources/02-praemisse-und-ton.md:42-49 [synthesis] - Die Themenfragen benennen die moralischen Achsen.
+[^7]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/sources/02-praemisse-und-ton.md:51-58 [synthesis] - Die Nicht-Themen grenzen die Kampagne ab.
+[^8]: [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]] raw/sources/02-praemisse-und-ton.md:88-96 [synthesis] - Die Leitfragen fuer die Spielleitung stehen dort.

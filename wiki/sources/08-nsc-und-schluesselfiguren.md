@@ -2,15 +2,15 @@
 type: source-summary
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [08-nsc-und-schluesselfiguren]
 tags: [source, characters, npcs]
 ---
 
 # NSC und Schluesselfiguren
 
-**Quelle:** `raw/inbox/08-nsc-und-schluesselfiguren.md`  
-**Datum ingestiert:** 2026-05-15  
+**Quelle:** `raw/sources/08-nsc-und-schluesselfiguren.md`
+**Datum ingestiert:** 2026-05-15
 **Typ:** other
 
 ## Summary
@@ -45,11 +45,11 @@ Diese Quelle liefert NSC-Logik fuer konkrete Charakterseiten und Hintergrundfigu
 
 ## Quellen
 
-- `raw/inbox/08-nsc-und-schluesselfiguren.md`
+- `raw/sources/08-nsc-und-schluesselfiguren.md`
 
-[^1]: [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]] raw/inbox/08-nsc-und-schluesselfiguren.md:1-6 [synthesis] - Die Quelle beschreibt Zweck und Anpassbarkeit der Namen.
-[^2]: [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]] raw/inbox/08-nsc-und-schluesselfiguren.md:7-106 [synthesis] - Die NSC-Archetypen und ihre ersten Szenen stehen dort.
-[^3]: [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]] raw/inbox/08-nsc-und-schluesselfiguren.md:107-167 [synthesis] - Die bekannten Figuren und ihr Einsatz werden dort definiert.
-[^4]: [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]] raw/inbox/08-nsc-und-schluesselfiguren.md:168-177 [synthesis] - Die NSC-Vorlage nennt diese Felder.
-[^5]: [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]] raw/inbox/08-nsc-und-schluesselfiguren.md:109-132 [synthesis] - Isaac und Felix werden explizit begrenzt.
-[^6]: [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]] raw/inbox/08-nsc-und-schluesselfiguren.md:93-106 [synthesis] - Der Dschinn, der nicht kaempfen will, prueft die SC-Haltung.
+[^1]: [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]] raw/sources/08-nsc-und-schluesselfiguren.md:1-6 [synthesis] - Die Quelle beschreibt Zweck und Anpassbarkeit der Namen.
+[^2]: [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]] raw/sources/08-nsc-und-schluesselfiguren.md:7-106 [synthesis] - Die NSC-Archetypen und ihre ersten Szenen stehen dort.
+[^3]: [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]] raw/sources/08-nsc-und-schluesselfiguren.md:107-167 [synthesis] - Die bekannten Figuren und ihr Einsatz werden dort definiert.
+[^4]: [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]] raw/sources/08-nsc-und-schluesselfiguren.md:168-177 [synthesis] - Die NSC-Vorlage nennt diese Felder.
+[^5]: [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]] raw/sources/08-nsc-und-schluesselfiguren.md:109-132 [synthesis] - Isaac und Felix werden explizit begrenzt.
+[^6]: [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]] raw/sources/08-nsc-und-schluesselfiguren.md:93-106 [synthesis] - Der Dschinn, der nicht kaempfen will, prueft die SC-Haltung.

@@ -2,15 +2,15 @@
 type: source-summary
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [00-kanon-und-adaptionspolitik]
 tags: [source, canon, adaptation]
 ---
 
 # Kanon und Adaptionspolitik
 
-**Quelle:** `raw/inbox/00-kanon-und-adaptionspolitik.md`  
-**Datum ingestiert:** 2026-05-15  
+**Quelle:** `raw/sources/00-kanon-und-adaptionspolitik.md`
+**Datum ingestiert:** 2026-05-15
 **Typ:** other
 
 ## Summary
@@ -47,11 +47,11 @@ Diese Quelle setzt die kanonischen Leitplanken fuer alle Kampagnenseiten.[^2][^3
 
 ## Quellen
 
-- `raw/inbox/00-kanon-und-adaptionspolitik.md`
+- `raw/sources/00-kanon-und-adaptionspolitik.md`
 
-[^1]: [[wiki/sources/00-kanon-und-adaptionspolitik|Kanon und Adaptionspolitik]] raw/inbox/00-kanon-und-adaptionspolitik.md:9-12 [synthesis] - Die Quelle setzt Zeitraum, Eigenstaendigkeit der SC und Hintergrundrolle bekannter Figuren.
-[^2]: [[wiki/sources/00-kanon-und-adaptionspolitik|Kanon und Adaptionspolitik]] raw/inbox/00-kanon-und-adaptionspolitik.md:13,24-32 [synthesis] - Spielbarkeit und lokale Anpassungen duerfen Kanondetails uebersteuern.
-[^3]: [[wiki/sources/00-kanon-und-adaptionspolitik|Kanon und Adaptionspolitik]] raw/inbox/00-kanon-und-adaptionspolitik.md:15-22 [synthesis] - Diese Punkte sind als verbindlich fuer die Kampagne aufgefuehrt.
-[^4]: [[wiki/sources/00-kanon-und-adaptionspolitik|Kanon und Adaptionspolitik]] raw/inbox/00-kanon-und-adaptionspolitik.md:34-67 [synthesis] - Die Quelle beschreibt Rollen und Tisch-Einsatz von Isaac, Felix, Saturos und Menardi.
-[^5]: [[wiki/sources/00-kanon-und-adaptionspolitik|Kanon und Adaptionspolitik]] raw/inbox/00-kanon-und-adaptionspolitik.md:78-80 [synthesis] - Alchemie wird weder als reines Heil noch als reines Verderben gesetzt.
-[^6]: [[wiki/sources/00-kanon-und-adaptionspolitik|Kanon und Adaptionspolitik]] raw/inbox/00-kanon-und-adaptionspolitik.md:86-88 [synthesis] - Dschinn werden als Figuren mit eigenen Bindungen und Instinkten verstanden.
+[^1]: [[wiki/sources/00-kanon-und-adaptionspolitik|Kanon und Adaptionspolitik]] raw/sources/00-kanon-und-adaptionspolitik.md:9-12 [synthesis] - Die Quelle setzt Zeitraum, Eigenstaendigkeit der SC und Hintergrundrolle bekannter Figuren.
+[^2]: [[wiki/sources/00-kanon-und-adaptionspolitik|Kanon und Adaptionspolitik]] raw/sources/00-kanon-und-adaptionspolitik.md:13,24-32 [synthesis] - Spielbarkeit und lokale Anpassungen duerfen Kanondetails uebersteuern.
+[^3]: [[wiki/sources/00-kanon-und-adaptionspolitik|Kanon und Adaptionspolitik]] raw/sources/00-kanon-und-adaptionspolitik.md:15-22 [synthesis] - Diese Punkte sind als verbindlich fuer die Kampagne aufgefuehrt.
+[^4]: [[wiki/sources/00-kanon-und-adaptionspolitik|Kanon und Adaptionspolitik]] raw/sources/00-kanon-und-adaptionspolitik.md:34-67 [synthesis] - Die Quelle beschreibt Rollen und Tisch-Einsatz von Isaac, Felix, Saturos und Menardi.
+[^5]: [[wiki/sources/00-kanon-und-adaptionspolitik|Kanon und Adaptionspolitik]] raw/sources/00-kanon-und-adaptionspolitik.md:78-80 [synthesis] - Alchemie wird weder als reines Heil noch als reines Verderben gesetzt.
+[^6]: [[wiki/sources/00-kanon-und-adaptionspolitik|Kanon und Adaptionspolitik]] raw/sources/00-kanon-und-adaptionspolitik.md:86-88 [synthesis] - Dschinn werden als Figuren mit eigenen Bindungen und Instinkten verstanden.

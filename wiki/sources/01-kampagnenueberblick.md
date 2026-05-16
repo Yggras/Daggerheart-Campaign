@@ -2,15 +2,15 @@
 type: source-summary
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [01-kampagnenueberblick]
 tags: [source, campaign, overview]
 ---
 
 # Kampagnenueberblick
 
-**Quelle:** `raw/inbox/01-kampagnenueberblick.md`  
-**Datum ingestiert:** 2026-05-15  
+**Quelle:** `raw/sources/01-kampagnenueberblick.md`
+**Datum ingestiert:** 2026-05-15
 **Typ:** other
 
 ## Summary
@@ -42,12 +42,12 @@ Diese Quelle ist die Hauptgrundlage fuer [[wiki/syntheses/kampagnenkern|Kampagne
 
 ## Quellen
 
-- `raw/inbox/01-kampagnenueberblick.md`
+- `raw/sources/01-kampagnenueberblick.md`
 
-[^1]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/inbox/01-kampagnenueberblick.md:3-10 [synthesis] - Arbeitstitel und Elevator Pitch setzen Zeitraum und Eigenstaendigkeit der Gruppe.
-[^2]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/inbox/01-kampagnenueberblick.md:11-18 [synthesis] - Die Kampagnenversprechen nennen Welt, Hope/Fear, Psynergy und Dschinn.
-[^3]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/inbox/01-kampagnenueberblick.md:19-35 [synthesis] - Die vier zentralen Konfliktfelder sind dort beschrieben.
-[^4]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/inbox/01-kampagnenueberblick.md:91-98 [synthesis] - Startregion und Start-Arc werden explizit empfohlen.
-[^5]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/inbox/01-kampagnenueberblick.md:48-55 [synthesis] - Die Kampagnenpfeiler nennen Reise, Ruinen, Dschinn, Fraktionen, Alchemie und Hope/Fear.
-[^6]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/inbox/01-kampagnenueberblick.md:57-77 [synthesis] - Die grobe Aktstruktur fuehrt von lokalen Symptomen zur eigenen Entscheidung.
-[^7]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/inbox/01-kampagnenueberblick.md:79-89 [synthesis] - Die wiederkehrenden Motive werden dort gesammelt.
+[^1]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/sources/01-kampagnenueberblick.md:3-10 [synthesis] - Arbeitstitel und Elevator Pitch setzen Zeitraum und Eigenstaendigkeit der Gruppe.
+[^2]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/sources/01-kampagnenueberblick.md:11-18 [synthesis] - Die Kampagnenversprechen nennen Welt, Hope/Fear, Psynergy und Dschinn.
+[^3]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/sources/01-kampagnenueberblick.md:19-35 [synthesis] - Die vier zentralen Konfliktfelder sind dort beschrieben.
+[^4]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/sources/01-kampagnenueberblick.md:91-98 [synthesis] - Startregion und Start-Arc werden explizit empfohlen.
+[^5]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/sources/01-kampagnenueberblick.md:48-55 [synthesis] - Die Kampagnenpfeiler nennen Reise, Ruinen, Dschinn, Fraktionen, Alchemie und Hope/Fear.
+[^6]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/sources/01-kampagnenueberblick.md:57-77 [synthesis] - Die grobe Aktstruktur fuehrt von lokalen Symptomen zur eigenen Entscheidung.
+[^7]: [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]] raw/sources/01-kampagnenueberblick.md:79-89 [synthesis] - Die wiederkehrenden Motive werden dort gesammelt.

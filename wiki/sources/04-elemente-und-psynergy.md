@@ -2,15 +2,15 @@
 type: source-summary
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [04-elemente-und-psynergy]
 tags: [source, psynergy, rules]
 ---
 
 # Elemente und Psynergy
 
-**Quelle:** `raw/inbox/04-elemente-und-psynergy.md`  
-**Datum ingestiert:** 2026-05-15  
+**Quelle:** `raw/sources/04-elemente-und-psynergy.md`
+**Datum ingestiert:** 2026-05-15
 **Typ:** other
 
 ## Summary
@@ -43,12 +43,12 @@ Diese Quelle traegt die mechanischen Grundregeln fuer [[wiki/concepts/psynergy|P
 
 ## Quellen
 
-- `raw/inbox/04-elemente-und-psynergy.md`
+- `raw/sources/04-elemente-und-psynergy.md`
 
-[^1]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/inbox/04-elemente-und-psynergy.md:3-5 [synthesis] - Die Quelle definiert Psynergy und Adepten.
-[^2]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/inbox/04-elemente-und-psynergy.md:7-15 [synthesis] - Die Tischumsetzung ueber Daggerheart und Hope/Fear wird dort beschrieben.
-[^3]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/inbox/04-elemente-und-psynergy.md:17-54 [synthesis] - Drei Groessenordnungen von Psynergy werden mit Beispielen gesetzt.
-[^4]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/inbox/04-elemente-und-psynergy.md:55-81 [synthesis] - Venus-Bedeutungen, Anwendungen, Hope und Fear stehen dort.
-[^5]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/inbox/04-elemente-und-psynergy.md:82-108 [synthesis] - Mars-Bedeutungen, Anwendungen, Hope und Fear stehen dort.
-[^6]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/inbox/04-elemente-und-psynergy.md:109-135 [synthesis] - Jupiter-Bedeutungen, Anwendungen, Hope und Fear stehen dort.
-[^7]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/inbox/04-elemente-und-psynergy.md:136-161 [synthesis] - Merkur-Bedeutungen, Anwendungen, Hope und Fear stehen dort.
+[^1]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/sources/04-elemente-und-psynergy.md:3-5 [synthesis] - Die Quelle definiert Psynergy und Adepten.
+[^2]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/sources/04-elemente-und-psynergy.md:7-15 [synthesis] - Die Tischumsetzung ueber Daggerheart und Hope/Fear wird dort beschrieben.
+[^3]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/sources/04-elemente-und-psynergy.md:17-54 [synthesis] - Drei Groessenordnungen von Psynergy werden mit Beispielen gesetzt.
+[^4]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/sources/04-elemente-und-psynergy.md:55-81 [synthesis] - Venus-Bedeutungen, Anwendungen, Hope und Fear stehen dort.
+[^5]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/sources/04-elemente-und-psynergy.md:82-108 [synthesis] - Mars-Bedeutungen, Anwendungen, Hope und Fear stehen dort.
+[^6]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/sources/04-elemente-und-psynergy.md:109-135 [synthesis] - Jupiter-Bedeutungen, Anwendungen, Hope und Fear stehen dort.
+[^7]: [[wiki/sources/04-elemente-und-psynergy|Elemente und Psynergy]] raw/sources/04-elemente-und-psynergy.md:136-161 [synthesis] - Merkur-Bedeutungen, Anwendungen, Hope und Fear stehen dort.

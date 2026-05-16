@@ -2,15 +2,15 @@
 type: source-summary
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [06-fraktionen]
 tags: [source, factions]
 ---
 
 # Fraktionen
 
-**Quelle:** `raw/inbox/06-fraktionen.md`  
-**Datum ingestiert:** 2026-05-15  
+**Quelle:** `raw/sources/06-fraktionen.md`
+**Datum ingestiert:** 2026-05-15
 **Typ:** other
 
 ## Summary
@@ -43,11 +43,11 @@ Diese Quelle begruendet alle Fraktionsseiten und liefert Druckmittel fuer [[wiki
 
 ## Quellen
 
-- `raw/inbox/06-fraktionen.md`
+- `raw/sources/06-fraktionen.md`
 
-[^1]: [[wiki/sources/06-fraktionen|Fraktionen]] raw/inbox/06-fraktionen.md:1-6 [synthesis] - Die Quelle erklaert ihren Zweck als Spielmaterial.
-[^2]: [[wiki/sources/06-fraktionen|Fraktionen]] raw/inbox/06-fraktionen.md:7-63 [synthesis] - Hueter und Proxeaner werden mit Zielen, Methoden und moralischem Kern beschrieben.
-[^3]: [[wiki/sources/06-fraktionen|Fraktionen]] raw/inbox/06-fraktionen.md:64-143 [synthesis] - Merkur-, Venus-, Jupiter- und Haendlerfraktionen werden dort beschrieben.
-[^4]: [[wiki/sources/06-fraktionen|Fraktionen]] raw/inbox/06-fraktionen.md:145-160 [synthesis] - Dschinn-Sucher und ihr Konflikt stehen dort.
-[^5]: [[wiki/sources/06-fraktionen|Fraktionen]] raw/inbox/06-fraktionen.md:162-177 [synthesis] - Lokale Autoritaeten werden als begrenzt informierte Verantwortungstraeger gesetzt.
-[^6]: [[wiki/sources/06-fraktionen|Fraktionen]] raw/inbox/06-fraktionen.md:179-197 [synthesis] - Fraktionsuhren fuer Adepten und Relikte stehen dort.
+[^1]: [[wiki/sources/06-fraktionen|Fraktionen]] raw/sources/06-fraktionen.md:1-6 [synthesis] - Die Quelle erklaert ihren Zweck als Spielmaterial.
+[^2]: [[wiki/sources/06-fraktionen|Fraktionen]] raw/sources/06-fraktionen.md:7-63 [synthesis] - Hueter und Proxeaner werden mit Zielen, Methoden und moralischem Kern beschrieben.
+[^3]: [[wiki/sources/06-fraktionen|Fraktionen]] raw/sources/06-fraktionen.md:64-143 [synthesis] - Merkur-, Venus-, Jupiter- und Haendlerfraktionen werden dort beschrieben.
+[^4]: [[wiki/sources/06-fraktionen|Fraktionen]] raw/sources/06-fraktionen.md:145-160 [synthesis] - Dschinn-Sucher und ihr Konflikt stehen dort.
+[^5]: [[wiki/sources/06-fraktionen|Fraktionen]] raw/sources/06-fraktionen.md:162-177 [synthesis] - Lokale Autoritaeten werden als begrenzt informierte Verantwortungstraeger gesetzt.
+[^6]: [[wiki/sources/06-fraktionen|Fraktionen]] raw/sources/06-fraktionen.md:179-197 [synthesis] - Fraktionsuhren fuer Adepten und Relikte stehen dort.

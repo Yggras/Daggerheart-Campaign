@@ -2,15 +2,15 @@
 type: source-summary
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [10-erster-handlungsbogen]
 tags: [source, arc, adventure]
 ---
 
 # Erster Handlungsbogen: Der Dschinn In Der Mine
 
-**Quelle:** `raw/inbox/10-erster-handlungsbogen.md`  
-**Datum ingestiert:** 2026-05-15  
+**Quelle:** `raw/sources/10-erster-handlungsbogen.md`
+**Datum ingestiert:** 2026-05-15
 **Typ:** other
 
 ## Summary
@@ -42,13 +42,13 @@ Diese Quelle wird als Start-Event und konkreter erster Arc ausgearbeitet.[^1][^4
 
 ## Quellen
 
-- `raw/inbox/10-erster-handlungsbogen.md`
+- `raw/sources/10-erster-handlungsbogen.md`
 
-[^1]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/inbox/10-erster-handlungsbogen.md:1-6 [synthesis] - Funktion des Handlungsbogens wird dort beschrieben.
-[^2]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/inbox/10-erster-handlungsbogen.md:7-12 [synthesis] - Ausgangssituation und wahre Ursache werden dort gesetzt.
-[^3]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/inbox/10-erster-handlungsbogen.md:21-52 [synthesis] - Die wichtigen Beteiligten werden dort beschrieben.
-[^4]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/inbox/10-erster-handlungsbogen.md:127-136 [synthesis] - Finale Optionen stehen dort.
-[^5]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/inbox/10-erster-handlungsbogen.md:62-67,108-118 [synthesis] - Pumpenhalle und Pumpenraetsel verbinden Elementtechnik und Utility-Psynergy.
-[^6]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/inbox/10-erster-handlungsbogen.md:138-149 [synthesis] - Tau wird dort als moeglicher Dschinn-Fund mit Werten beschrieben.
-[^7]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/inbox/10-erster-handlungsbogen.md:150-172 [synthesis] - Konsequenzen der Loesungswege stehen dort.
-[^8]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/inbox/10-erster-handlungsbogen.md:174-180 [synthesis] - Uebergaenge in spaetere Arcs stehen dort.
+[^1]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/sources/10-erster-handlungsbogen.md:1-6 [synthesis] - Funktion des Handlungsbogens wird dort beschrieben.
+[^2]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/sources/10-erster-handlungsbogen.md:7-12 [synthesis] - Ausgangssituation und wahre Ursache werden dort gesetzt.
+[^3]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/sources/10-erster-handlungsbogen.md:21-52 [synthesis] - Die wichtigen Beteiligten werden dort beschrieben.
+[^4]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/sources/10-erster-handlungsbogen.md:127-136 [synthesis] - Finale Optionen stehen dort.
+[^5]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/sources/10-erster-handlungsbogen.md:62-67,108-118 [synthesis] - Pumpenhalle und Pumpenraetsel verbinden Elementtechnik und Utility-Psynergy.
+[^6]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/sources/10-erster-handlungsbogen.md:138-149 [synthesis] - Tau wird dort als moeglicher Dschinn-Fund mit Werten beschrieben.
+[^7]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/sources/10-erster-handlungsbogen.md:150-172 [synthesis] - Konsequenzen der Loesungswege stehen dort.
+[^8]: [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] raw/sources/10-erster-handlungsbogen.md:174-180 [synthesis] - Uebergaenge in spaetere Arcs stehen dort.

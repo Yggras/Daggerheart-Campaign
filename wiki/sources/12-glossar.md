@@ -2,15 +2,15 @@
 type: source-summary
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [12-glossar]
 tags: [source, glossary]
 ---
 
 # Glossar
 
-**Quelle:** `raw/inbox/12-glossar.md`  
-**Datum ingestiert:** 2026-05-15  
+**Quelle:** `raw/sources/12-glossar.md`
+**Datum ingestiert:** 2026-05-15
 **Typ:** other
 
 ## Summary
@@ -44,13 +44,13 @@ Diese Quelle stabilisiert die Terminologie fuer alle Seiten und verhindert engli
 
 ## Quellen
 
-- `raw/inbox/12-glossar.md`
+- `raw/sources/12-glossar.md`
 
-[^1]: [[wiki/sources/12-glossar|Glossar]] raw/inbox/12-glossar.md:1-115 [synthesis] - Die Quelle ist als Glossar fuer mehrere Begriffsfelder strukturiert.
-[^2]: [[wiki/sources/12-glossar|Glossar]] raw/inbox/12-glossar.md:3-35 [synthesis] - Golden-Sun-Begriffe werden dort definiert.
-[^3]: [[wiki/sources/12-glossar|Glossar]] raw/inbox/12-glossar.md:37-53 [synthesis] - Die vier Elemente werden dort definiert.
-[^4]: [[wiki/sources/12-glossar|Glossar]] raw/inbox/12-glossar.md:55-79 [synthesis] - Daggerheart-Begriffe werden dort kampagnennah erklaert.
-[^5]: [[wiki/sources/12-glossar|Glossar]] raw/inbox/12-glossar.md:107-115 [synthesis] - Uneinheitliche Begriffe und gewaehlte Formen stehen dort.
-[^6]: [[wiki/sources/12-glossar|Glossar]] raw/inbox/12-glossar.md:81-85 [synthesis] - Leuchtturmkrise wird dort definiert.
-[^7]: [[wiki/sources/12-glossar|Glossar]] raw/inbox/12-glossar.md:87-89 [synthesis] - Weltverfall wird dort definiert.
-[^8]: [[wiki/sources/12-glossar|Glossar]] raw/inbox/12-glossar.md:103-105 [synthesis] - Psynergy-Vortex ist dort als spaeteres Kampagnenelement eingeordnet.
+[^1]: [[wiki/sources/12-glossar|Glossar]] raw/sources/12-glossar.md:1-115 [synthesis] - Die Quelle ist als Glossar fuer mehrere Begriffsfelder strukturiert.
+[^2]: [[wiki/sources/12-glossar|Glossar]] raw/sources/12-glossar.md:3-35 [synthesis] - Golden-Sun-Begriffe werden dort definiert.
+[^3]: [[wiki/sources/12-glossar|Glossar]] raw/sources/12-glossar.md:37-53 [synthesis] - Die vier Elemente werden dort definiert.
+[^4]: [[wiki/sources/12-glossar|Glossar]] raw/sources/12-glossar.md:55-79 [synthesis] - Daggerheart-Begriffe werden dort kampagnennah erklaert.
+[^5]: [[wiki/sources/12-glossar|Glossar]] raw/sources/12-glossar.md:107-115 [synthesis] - Uneinheitliche Begriffe und gewaehlte Formen stehen dort.
+[^6]: [[wiki/sources/12-glossar|Glossar]] raw/sources/12-glossar.md:81-85 [synthesis] - Leuchtturmkrise wird dort definiert.
+[^7]: [[wiki/sources/12-glossar|Glossar]] raw/sources/12-glossar.md:87-89 [synthesis] - Weltverfall wird dort definiert.
+[^8]: [[wiki/sources/12-glossar|Glossar]] raw/sources/12-glossar.md:103-105 [synthesis] - Psynergy-Vortex ist dort als spaeteres Kampagnenelement eingeordnet.

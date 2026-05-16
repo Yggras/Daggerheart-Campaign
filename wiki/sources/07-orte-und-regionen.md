@@ -2,15 +2,15 @@
 type: source-summary
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [07-orte-und-regionen]
 tags: [source, places]
 ---
 
 # Orte und Regionen
 
-**Quelle:** `raw/inbox/07-orte-und-regionen.md`  
-**Datum ingestiert:** 2026-05-15  
+**Quelle:** `raw/sources/07-orte-und-regionen.md`
+**Datum ingestiert:** 2026-05-15
 **Typ:** other
 
 ## Summary
@@ -44,11 +44,11 @@ Diese Quelle legt die Ortsseiten und die Kampagnenroute an.[^1][^3][^4] Sie ist 
 
 ## Quellen
 
-- `raw/inbox/07-orte-und-regionen.md`
+- `raw/sources/07-orte-und-regionen.md`
 
-[^1]: [[wiki/sources/07-orte-und-regionen|Orte und Regionen]] raw/inbox/07-orte-und-regionen.md:3-8 [synthesis] - Funktion der Startregion wird dort beschrieben.
-[^2]: [[wiki/sources/07-orte-und-regionen|Orte und Regionen]] raw/inbox/07-orte-und-regionen.md:9-24 [synthesis] - Konflikte und Startnutzen der Region stehen dort.
-[^3]: [[wiki/sources/07-orte-und-regionen|Orte und Regionen]] raw/inbox/07-orte-und-regionen.md:25-142 [synthesis] - Die einzelnen Regionen werden dort mit Funktion, Konflikten und Hooks beschrieben.
-[^4]: [[wiki/sources/07-orte-und-regionen|Orte und Regionen]] raw/inbox/07-orte-und-regionen.md:160-170 [synthesis] - Die Regionenvorlage gibt die relevanten Felder vor.
-[^5]: [[wiki/sources/07-orte-und-regionen|Orte und Regionen]] raw/inbox/07-orte-und-regionen.md:110-125 [synthesis] - Prox wird als Randgesellschaft mit realem Weltuntergangsdruck gesetzt.
-[^6]: [[wiki/sources/07-orte-und-regionen|Orte und Regionen]] raw/inbox/07-orte-und-regionen.md:143-158 [synthesis] - Gaia Falls und Weltrand werden als spaeter Beweis genutzt.
+[^1]: [[wiki/sources/07-orte-und-regionen|Orte und Regionen]] raw/sources/07-orte-und-regionen.md:3-8 [synthesis] - Funktion der Startregion wird dort beschrieben.
+[^2]: [[wiki/sources/07-orte-und-regionen|Orte und Regionen]] raw/sources/07-orte-und-regionen.md:9-24 [synthesis] - Konflikte und Startnutzen der Region stehen dort.
+[^3]: [[wiki/sources/07-orte-und-regionen|Orte und Regionen]] raw/sources/07-orte-und-regionen.md:25-142 [synthesis] - Die einzelnen Regionen werden dort mit Funktion, Konflikten und Hooks beschrieben.
+[^4]: [[wiki/sources/07-orte-und-regionen|Orte und Regionen]] raw/sources/07-orte-und-regionen.md:160-170 [synthesis] - Die Regionenvorlage gibt die relevanten Felder vor.
+[^5]: [[wiki/sources/07-orte-und-regionen|Orte und Regionen]] raw/sources/07-orte-und-regionen.md:110-125 [synthesis] - Prox wird als Randgesellschaft mit realem Weltuntergangsdruck gesetzt.
+[^6]: [[wiki/sources/07-orte-und-regionen|Orte und Regionen]] raw/sources/07-orte-und-regionen.md:143-158 [synthesis] - Gaia Falls und Weltrand werden als spaeter Beweis genutzt.

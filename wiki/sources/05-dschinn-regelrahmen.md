@@ -2,15 +2,15 @@
 type: source-summary
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [05-dschinn-regelrahmen]
 tags: [source, dschinn, rules]
 ---
 
 # Dschinn-Regelrahmen
 
-**Quelle:** `raw/inbox/05-dschinn-regelrahmen.md`  
-**Datum ingestiert:** 2026-05-15  
+**Quelle:** `raw/sources/05-dschinn-regelrahmen.md`
+**Datum ingestiert:** 2026-05-15
 **Typ:** other
 
 ## Summary
@@ -41,13 +41,13 @@ Diese Quelle ist die Hauptgrundlage fuer die Dschinn-Mechanik und alle Dschinn-I
 
 ## Quellen
 
-- `raw/inbox/05-dschinn-regelrahmen.md`
+- `raw/sources/05-dschinn-regelrahmen.md`
 
-[^1]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/inbox/05-dschinn-regelrahmen.md:3-8 [synthesis] - Die Quelle definiert Wesen und Funktion von Dschinn.
-[^2]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/inbox/05-dschinn-regelrahmen.md:9-12,54-63,86-93 [synthesis] - Passive Boni, Entfesseln und Erschoepfung werden dort geregelt.
-[^3]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/inbox/05-dschinn-regelrahmen.md:30-40 [synthesis] - Bindungswege werden dort genannt.
-[^4]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/inbox/05-dschinn-regelrahmen.md:98-115 [synthesis] - Beschwoerungen werden als seltene mythische Interventionen beschrieben.
-[^5]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/inbox/05-dschinn-regelrahmen.md:13-29 [synthesis] - Das Dschinn-Seitenformat ist dort aufgelistet.
-[^6]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/inbox/05-dschinn-regelrahmen.md:64-74 [synthesis] - Hope-Deutungen fuer Dschinn stehen dort.
-[^7]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/inbox/05-dschinn-regelrahmen.md:75-85 [synthesis] - Fear-Deutungen fuer Dschinn stehen dort.
-[^8]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/inbox/05-dschinn-regelrahmen.md:117-153 [synthesis] - Die vier Beispiel-Dschinn werden dort vorgestellt.
+[^1]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/sources/05-dschinn-regelrahmen.md:3-8 [synthesis] - Die Quelle definiert Wesen und Funktion von Dschinn.
+[^2]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/sources/05-dschinn-regelrahmen.md:9-12,54-63,86-93 [synthesis] - Passive Boni, Entfesseln und Erschoepfung werden dort geregelt.
+[^3]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/sources/05-dschinn-regelrahmen.md:30-40 [synthesis] - Bindungswege werden dort genannt.
+[^4]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/sources/05-dschinn-regelrahmen.md:98-115 [synthesis] - Beschwoerungen werden als seltene mythische Interventionen beschrieben.
+[^5]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/sources/05-dschinn-regelrahmen.md:13-29 [synthesis] - Das Dschinn-Seitenformat ist dort aufgelistet.
+[^6]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/sources/05-dschinn-regelrahmen.md:64-74 [synthesis] - Hope-Deutungen fuer Dschinn stehen dort.
+[^7]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/sources/05-dschinn-regelrahmen.md:75-85 [synthesis] - Fear-Deutungen fuer Dschinn stehen dort.
+[^8]: [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]] raw/sources/05-dschinn-regelrahmen.md:117-153 [synthesis] - Die vier Beispiel-Dschinn werden dort vorgestellt.

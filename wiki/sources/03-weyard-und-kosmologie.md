@@ -2,15 +2,15 @@
 type: source-summary
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [03-weyard-und-kosmologie]
 tags: [source, cosmology, lore]
 ---
 
 # Weyard und Kosmologie
 
-**Quelle:** `raw/inbox/03-weyard-und-kosmologie.md`  
-**Datum ingestiert:** 2026-05-15  
+**Quelle:** `raw/sources/03-weyard-und-kosmologie.md`
+**Datum ingestiert:** 2026-05-15
 **Typ:** other
 
 ## Summary
@@ -42,13 +42,13 @@ Diese Quelle ist die zentrale Lore-Grundlage fuer [[wiki/entities/places/weyard|
 
 ## Quellen
 
-- `raw/inbox/03-weyard-und-kosmologie.md`
+- `raw/sources/03-weyard-und-kosmologie.md`
 
-[^1]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/inbox/03-weyard-und-kosmologie.md:3-8 [synthesis] - Die Quelle beschreibt Weyard und den Weltrand als physische Grenze.
-[^2]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/inbox/03-weyard-und-kosmologie.md:9-19 [synthesis] - Gaia Falls werden dort mit Funktion und Spielnutzung dargestellt.
-[^3]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/inbox/03-weyard-und-kosmologie.md:21-30 [synthesis] - Alchemie und ihre Versiegelung werden als Weltkraft und Kampagnendeutung erklaert.
-[^4]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/inbox/03-weyard-und-kosmologie.md:50-61 [synthesis] - Leuchttuerme und Nebenfolgen werden dort aufgelistet.
-[^5]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/inbox/03-weyard-und-kosmologie.md:32-49 [synthesis] - Die vier Elemente werden mit erweiterten Bedeutungen versehen.
-[^6]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/inbox/03-weyard-und-kosmologie.md:63-72 [synthesis] - Elementsterne und Nebenrelikte werden dort beschrieben.
-[^7]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/inbox/03-weyard-und-kosmologie.md:74-83 [synthesis] - Alte Zivilisationen werden als technische und magische Systeme angelegt.
-[^8]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/inbox/03-weyard-und-kosmologie.md:85-94 [synthesis] - Symptome des Weltverfalls sind dort aufgefuehrt.
+[^1]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/sources/03-weyard-und-kosmologie.md:3-8 [synthesis] - Die Quelle beschreibt Weyard und den Weltrand als physische Grenze.
+[^2]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/sources/03-weyard-und-kosmologie.md:9-19 [synthesis] - Gaia Falls werden dort mit Funktion und Spielnutzung dargestellt.
+[^3]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/sources/03-weyard-und-kosmologie.md:21-30 [synthesis] - Alchemie und ihre Versiegelung werden als Weltkraft und Kampagnendeutung erklaert.
+[^4]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/sources/03-weyard-und-kosmologie.md:50-61 [synthesis] - Leuchttuerme und Nebenfolgen werden dort aufgelistet.
+[^5]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/sources/03-weyard-und-kosmologie.md:32-49 [synthesis] - Die vier Elemente werden mit erweiterten Bedeutungen versehen.
+[^6]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/sources/03-weyard-und-kosmologie.md:63-72 [synthesis] - Elementsterne und Nebenrelikte werden dort beschrieben.
+[^7]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/sources/03-weyard-und-kosmologie.md:74-83 [synthesis] - Alte Zivilisationen werden als technische und magische Systeme angelegt.
+[^8]: [[wiki/sources/03-weyard-und-kosmologie|Weyard und Kosmologie]] raw/sources/03-weyard-und-kosmologie.md:85-94 [synthesis] - Symptome des Weltverfalls sind dort aufgefuehrt.

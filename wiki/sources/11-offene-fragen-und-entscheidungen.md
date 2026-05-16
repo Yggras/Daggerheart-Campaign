@@ -2,15 +2,15 @@
 type: source-summary
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [11-offene-fragen-und-entscheidungen]
 tags: [source, questions, decisions]
 ---
 
 # Offene Fragen und Entscheidungen
 
-**Quelle:** `raw/inbox/11-offene-fragen-und-entscheidungen.md`  
-**Datum ingestiert:** 2026-05-15  
+**Quelle:** `raw/sources/11-offene-fragen-und-entscheidungen.md`
+**Datum ingestiert:** 2026-05-15
 **Typ:** other
 
 ## Summary
@@ -39,10 +39,10 @@ Diese Quelle ersetzt die initialen Platzhalterfragen in [[wiki/questions/open-qu
 
 ## Quellen
 
-- `raw/inbox/11-offene-fragen-und-entscheidungen.md`
+- `raw/sources/11-offene-fragen-und-entscheidungen.md`
 
-[^1]: [[wiki/sources/11-offene-fragen-und-entscheidungen|Offene Fragen und Entscheidungen]] raw/inbox/11-offene-fragen-und-entscheidungen.md:1-80 [synthesis] - Die Quelle ist nach getroffenen Entscheidungen und Fragekategorien gegliedert.
-[^2]: [[wiki/sources/11-offene-fragen-und-entscheidungen|Offene Fragen und Entscheidungen]] raw/inbox/11-offene-fragen-und-entscheidungen.md:3-13 [synthesis] - Bereits getroffene Entscheidungen stehen dort.
-[^3]: [[wiki/sources/11-offene-fragen-und-entscheidungen|Offene Fragen und Entscheidungen]] raw/inbox/11-offene-fragen-und-entscheidungen.md:14-22,33-72 [synthesis] - Lore-, Spieler-, Fraktions-, Orts-, Dschinn- und Kanonfragen stehen dort.
-[^4]: [[wiki/sources/11-offene-fragen-und-entscheidungen|Offene Fragen und Entscheidungen]] raw/inbox/11-offene-fragen-und-entscheidungen.md:23-32 [synthesis] - Regelfragen stehen dort.
-[^5]: [[wiki/sources/11-offene-fragen-und-entscheidungen|Offene Fragen und Entscheidungen]] raw/inbox/11-offene-fragen-und-entscheidungen.md:73-80 [synthesis] - Pruefbedarf vor Spielstart steht dort.
+[^1]: [[wiki/sources/11-offene-fragen-und-entscheidungen|Offene Fragen und Entscheidungen]] raw/sources/11-offene-fragen-und-entscheidungen.md:1-80 [synthesis] - Die Quelle ist nach getroffenen Entscheidungen und Fragekategorien gegliedert.
+[^2]: [[wiki/sources/11-offene-fragen-und-entscheidungen|Offene Fragen und Entscheidungen]] raw/sources/11-offene-fragen-und-entscheidungen.md:3-13 [synthesis] - Bereits getroffene Entscheidungen stehen dort.
+[^3]: [[wiki/sources/11-offene-fragen-und-entscheidungen|Offene Fragen und Entscheidungen]] raw/sources/11-offene-fragen-und-entscheidungen.md:14-22,33-72 [synthesis] - Lore-, Spieler-, Fraktions-, Orts-, Dschinn- und Kanonfragen stehen dort.
+[^4]: [[wiki/sources/11-offene-fragen-und-entscheidungen|Offene Fragen und Entscheidungen]] raw/sources/11-offene-fragen-und-entscheidungen.md:23-32 [synthesis] - Regelfragen stehen dort.
+[^5]: [[wiki/sources/11-offene-fragen-und-entscheidungen|Offene Fragen und Entscheidungen]] raw/sources/11-offene-fragen-und-entscheidungen.md:73-80 [synthesis] - Pruefbedarf vor Spielstart steht dort.
