@@ -9,7 +9,7 @@ Bootstrap a new LLM-maintained wiki at a user-specified path.
 
 ## Pre-flight
 
-Check whether a `SCHEMA.md` already exists nearby. If yes, ask the user if they want to reinitialize or just continue with the existing wiki.
+Check whether a `AGENTS.md` already exists nearby. If yes, ask the user if they want to reinitialize or just continue with the existing wiki.
 
 ## Process
 
@@ -28,7 +28,7 @@ Ask:
 
 ```
 <wiki-root>/
-├── SCHEMA.md         ← conventions + absolute path (how other skills find the wiki)
+├── AGENTS.md         ← conventions + absolute path (how other skills find the wiki)
 ├── raw/              ← immutable source documents (you add these, LLM never modifies)
 ├── wiki/
 │   ├── index.md      ← content catalog: every page, one-line summary, by category
@@ -40,10 +40,10 @@ Ask:
 
 **Critical:** `wiki/pages/` is flat. All pages live here as `<slug>.md`. No subdirectories. Slugs are lowercase, hyphen-separated.
 
-### 3. Write `SCHEMA.md`
+### 3. Write `AGENTS.md`
 
 ```markdown
-# Wiki Schema
+# Wiki AGENTS
 
 ## Identity
 - **Path:** <absolute path to wiki-root>
@@ -185,4 +185,4 @@ Tell the user:
 - Wiki initialized at `<path>`
 - Add sources to `raw/` manually, or run `wiki-ingest` directly with a URL or file path
 - Run `wiki-lint` periodically to keep the wiki healthy
-- `SCHEMA.md` is how all other skills locate this wiki — do not move or delete it
+- `AGENTS.md` is how all other skills locate this wiki — do not move or delete it

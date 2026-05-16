@@ -9,7 +9,7 @@ Revise existing wiki pages. Always show diffs before writing. Always log. Always
 
 ## Pre-condition
 
-Find `SCHEMA.md` (search from cwd upward, or `~/wikis/`). If not found, tell the user to run `wiki-init` first. Read it to get wiki root path and conventions.
+Find `AGENTS.md` (search from cwd upward, or `~/wikis/`). If not found, tell the user to run `wiki-init` first. Read it to get wiki root path and conventions.
 
 ## Process
 

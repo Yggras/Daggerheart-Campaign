@@ -9,9 +9,9 @@ Verify a single wiki page against its cited sources. Two phases: detect uncited 
 
 ## Pre-condition
 
-Find `SCHEMA.md` (search from cwd upward, or `~/wikis/`). If not found, tell the user to run `wiki-init` first. Read `SCHEMA.md` for the wiki root path and the **Citations** section (the rules and footnote format the audit enforces).
+Find `AGENTS.md` (search from cwd upward, or `~/wikis/`). If not found, tell the user to run `wiki-init` first. Read `AGENTS.md` for the wiki root path and the **Citations** section (the rules and footnote format the audit enforces).
 
-**If `SCHEMA.md` has no Citations section** (older wiki, initialized before this skill existed): use the fallback convention below for this run, and offer at the end to append the Citations section to `SCHEMA.md` so future operations stay consistent.
+**If `AGENTS.md` has no Citations section** (older wiki, initialized before this skill existed): use the fallback convention below for this run, and offer at the end to append the Citations section to `AGENTS.md` so future operations stay consistent.
 
 ```
 Cite every non-common-knowledge factual claim. Granularity is paragraph or claim,
@@ -45,12 +45,12 @@ If the page has zero footnotes but contains factual content, that is itself the 
 
 Dispatch one subagent. Give it:
 - The full page contents.
-- The **Citations** section copied from `SCHEMA.md`.
+- The **Citations** section copied from `AGENTS.md`.
 - The page's `sources:` list.
 
 Task: list every non-common-knowledge factual claim that lacks a footnote. Return a structured list of `(line number, claim text, suggested-source-from-the-sources-list-or-"unknown")`.
 
-The subagent applies the SCHEMA.md "what to cite" rule: paragraph- or claim-level granularity, common knowledge exempt.
+The subagent applies the AGENTS.md "what to cite" rule: paragraph- or claim-level granularity, common knowledge exempt.
 
 ### 3. Phase B — cited claim verification (N subagents, parallel)
 

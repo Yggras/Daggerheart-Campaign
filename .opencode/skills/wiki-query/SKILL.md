@@ -9,7 +9,7 @@ Ask a question. Read the wiki. Synthesize with citations. Offer to file the answ
 
 ## Pre-condition
 
-Find `SCHEMA.md` (search from cwd upward, or `~/wikis/`). If not found, tell the user to run `wiki-init` first. Read it to get wiki root path and cross-reference convention.
+Find `AGENTS.md` (search from cwd upward, or `~/wikis/`). If not found, tell the user to run `wiki-init` first. Read it to get wiki root path and cross-reference convention.
 
 ## Process
 
