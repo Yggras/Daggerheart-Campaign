@@ -9,9 +9,9 @@ Add a source to the wiki. Read it, discuss with the user, write a summary page, 
 
 ## Pre-condition
 
-Search for `SCHEMA.md` starting from the current directory and upward, or in common wiki locations (`~/wikis/`). If not found, tell the user to run `wiki-init` first.
+Search for `AGENTS.md` starting from the current directory and upward, or in common wiki locations (`~/wikis/`). If not found, tell the user to run `wiki-init` first.
 
-Read `SCHEMA.md` to learn: wiki root path, page frontmatter format, cross-reference convention, log entry format, index category taxonomy.
+Read `AGENTS.md` to learn: wiki root path, page frontmatter format, cross-reference convention, log entry format, index category taxonomy.
 
 ## Process
 
@@ -81,7 +81,7 @@ updated: <today>
 
 While drafting the Summary, Key Takeaways, and any other prose section, every
 non-common-knowledge factual claim must carry a footnote. Read the **Citations**
-section in `SCHEMA.md` for the full convention.
+section in `AGENTS.md` for the full convention.
 
 Two citation kinds, three valid targets:
 
