@@ -1,17 +1,17 @@
 ---
 type: event
-status: active
+status: archived
 created: 2026-05-15
 updated: 2026-05-16
 sources: [01-kampagnenueberblick, 07-orte-und-regionen, 10-erster-handlungsbogen, 11-offene-fragen-und-entscheidungen, campaign-frame, factions]
-tags: [arc, start]
+tags: [arc, optional]
 ---
 
 # Der Dschinn in der Mine
 
 ## Beschreibung
 
-Der Dschinn in der Mine ist der vorlaeufige erste Handlungsbogen der Kampagne. Eine Mine an der [[wiki/entities/places/altin-xian-kalay-route|Altin-Xian-Kalay-Route]] wird geflutet, alte Inschriften leuchten unter der Wasserlinie, und ein [[wiki/concepts/merkur|Merkur]]-[[wiki/concepts/dschinn|Dschinn]] sabotiert eine Pumpanlage, die einen alten Wasserlauf toetet.
+Der Dschinn in der Mine ist ein frueherer Auftaktentwurf und bleibt als optionales spaeteres Arc-Material erhalten. Eine Mine an der [[wiki/entities/places/altin-xian-kalay-route|Altin-Xian-Kalay-Route]] wird geflutet, alte Inschriften leuchten unter der Wasserlinie, und ein [[wiki/concepts/merkur|Merkur]]-[[wiki/concepts/dschinn|Dschinn]] sabotiert eine Pumpanlage, die einen alten Wasserlauf toetet.
 
 ## Beteiligte
 
@@ -36,9 +36,10 @@ Der Dschinn in der Mine ist der vorlaeufige erste Handlungsbogen der Kampagne. E
 - Tau binden und eine riskante Balance schaffen.
 - Den Patron taeuschen oder die Wahrheit offenlegen.
 
-## Widersprueche / Unsicherheiten
+## Kampagnenstatus
 
-- Der neue Start [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] konkurriert mit diesem Arc als Kampagnenauftakt. Noch offen ist, ob die Mine Start bleibt, ob der Krater-Start sie ersetzt oder ob beide nacheinander verbunden werden.
+- [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] ist der festgelegte Kampagnenstart.
+- Dieser Minen-Arc ist nicht mehr der Auftakt, kann aber spaeter als regionale Folge der [[wiki/events/leuchtturmkrise|Leuchtturmkrise]] oder als Nebenarc genutzt werden.
 
 ## Quellen
 

@@ -2,9 +2,9 @@
 type: character
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [08-nsc-und-schluesselfiguren, 10-erster-handlungsbogen]
-tags: [npc, patron, start-arc]
+tags: [npc, patron, mine-arc]
 ---
 
 # Dorvan

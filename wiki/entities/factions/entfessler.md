@@ -18,7 +18,7 @@ Die Entfessler sind eine antagonistische Adeptenfraktion, die [[wiki/concepts/al
 
 - Die gestohlenen [[wiki/concepts/elementsterne|Elementsterne]] nutzen, um die vier [[wiki/concepts/leuchttuerme|Elementaren Leuchttuerme]] zu entzuenden.
 - [[wiki/concepts/dschinn|Dschinn]], [[wiki/concepts/psynergy-stein|Psynergy-Steine]] und Elementsterne jagen.
-- Im alternativen Start eine Vorhut in den Kraterkonflikt schicken.
+- Im Kampagnenstart [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] eine Vorhut in den Kraterkonflikt schicken.
 
 ## Countdown
 

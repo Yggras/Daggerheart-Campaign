@@ -2,16 +2,16 @@
 type: character
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [08-nsc-und-schluesselfiguren, 10-erster-handlungsbogen]
-tags: [npc, jupiter, start-arc]
+tags: [npc, jupiter, mine-arc]
 ---
 
 # Ilyen
 
 ## Beschreibung
 
-Ilyen ist ein [[wiki/concepts/jupiter|Jupiter]]-Bote im Start-Arc [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]]. Er hat getraeumt, dass die Mine nicht flutet, sondern sich erinnert, verkauft diese Information aber erst, wenn die SC ihm helfen oder ihn ueberzeugen.
+Ilyen ist ein [[wiki/concepts/jupiter|Jupiter]]-Bote im optionalen Minen-Arc [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]]. Er hat getraeumt, dass die Mine nicht flutet, sondern sich erinnert, verkauft diese Information aber erst, wenn die SC ihm helfen oder ihn ueberzeugen.
 
 ## Rolle
 

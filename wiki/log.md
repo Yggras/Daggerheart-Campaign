@@ -39,3 +39,9 @@ Pages updated: wiki/index, wiki/overview, wiki/questions/open-questions, wiki/sy
 Source moved: raw/inbox/Campaign-frame.txt -> raw/sources/Campaign-frame.txt
 
 Source moved: raw/inbox/Factions.txt -> raw/sources/Factions.txt
+
+## [2026-05-16] decision | Kampagnenstart festgelegt
+
+- [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] ist der einzige kanonische Kampagnenstart.
+- [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] bleibt als optionales spaeteres Minen-Arc-Material erhalten und ist nicht mehr der Auftakt.
+- Betroffene Uebersichts-, Start-, Session-Zero-, Orts-, NSC-, Item- und Fragen-Seiten wurden entsprechend aktualisiert.

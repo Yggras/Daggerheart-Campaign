@@ -2,7 +2,7 @@
 type: concept
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [04-elemente-und-psynergy, 10-erster-handlungsbogen]
 tags: [psynergy, rules, exploration]
 ---
@@ -22,7 +22,7 @@ Utility Psynergy ist Psynergy fuer Erkundung, Dungeons und Umweltprobleme. Sie s
 
 ## Spielnutzung
 
-Im Start-Arc [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] kann Utility Psynergy Ventile, Druck, Eis, Dampf, Stollen, Hohlraeume und verborgene Mechanismen beeinflussen.
+Im optionalen Minen-Arc [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] kann Utility Psynergy Ventile, Druck, Eis, Dampf, Stollen, Hohlraeume und verborgene Mechanismen beeinflussen.
 
 ## Quellen
 

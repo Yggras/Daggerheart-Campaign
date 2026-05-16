@@ -1,6 +1,6 @@
 ---
 type: event
-status: needs-review
+status: active
 created: 2026-05-16
 updated: 2026-05-16
 sources: [campaign-frame, factions]
@@ -11,7 +11,7 @@ tags: [event, start, sandbox]
 
 ## Beschreibung
 
-Beben und Kraterfund ist ein alternativer Sandbox-Start fuer die Kampagne. Die Gruppe erlebt ein gewaltiges Beben, in dessen Naehe der Boden aufbricht oder ein Krater entsteht. Im Krater liegt ein leuchtender [[wiki/concepts/psynergy-stein|Psynergy-Stein]].
+Beben und Kraterfund ist der festgelegte Sandbox-Start der Kampagne. Die Gruppe erlebt ein gewaltiges Beben, in dessen Naehe der Boden aufbricht oder ein Krater entsteht. Im Krater liegt ein leuchtender [[wiki/concepts/psynergy-stein|Psynergy-Stein]].
 
 Der Fund fuehrt unmittelbar zu drei Begegnungen: mutierte Tiere greifen an, ein von der Erschuetterung angezogener [[wiki/concepts/dschinn|Dschinn]] erscheint, und eine Vorhut der [[wiki/entities/factions/entfessler|Entfessler]] versucht, [[wiki/concepts/dschinn|Dschinn]], [[wiki/concepts/psynergy-stein|Psynergy-Steine]] und [[wiki/concepts/elementsterne|Elementsterne]] fuer die Entzuendung der [[wiki/concepts/leuchttuerme|Leuchttuerme]] zu sichern.
 
@@ -23,9 +23,8 @@ Der Fund fuehrt unmittelbar zu drei Begegnungen: mutierte Tiere greifen an, ein 
 - [[wiki/entities/factions/lokalfuerst-von-gondowan|Lokalfuerst von Gondowan]]: will das Gebiet des Vulkanausbruchs abriegeln.
 - [[wiki/entities/factions/puritanische-waechter|Puritanische Waechter]]: sichern ein Heiligtum mit toedlichen Alchemie-Maschinen.
 
-## Widersprueche / Unsicherheiten
+## Offene Punkte
 
-- Dieser Start konkurriert mit [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] als bisherigem vorlaeufigem ersten Handlungsbogen.
 - Unklar ist, ob der Dschinn aus diesem Start [[wiki/entities/items/tau|Tau]] ersetzt, Tau neu kontextualisiert oder ein weiterer frueher Dschinn ist.
 - Unklar ist, ob die SC in dieser Variante wirklich unwissende Adepten sind oder ob Nicht-Adepten weiter moeglich bleiben.
 

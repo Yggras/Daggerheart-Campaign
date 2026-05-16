@@ -13,7 +13,7 @@ tags: [psynergy, relic]
 
 Ein Psynergy-Stein ist eine konzentrierte Quelle von [[wiki/concepts/psynergy|Psynergy]]. Er kann [[wiki/concepts/dschinn|Dschinn]] erneuern, grosse Psynergy ermoeglichen oder lokale Anomalien ausloesen.
 
-Im alternativen Start [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] liegt ein leuchtender Psynergy-Stein in einem neu entstandenen Krater. Diese Quelle deutet Psynergy-Steine ausserdem als Ausloeser mutierter, aggressiver Tiere und Pflanzen.
+Im Kampagnenstart [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] liegt ein leuchtender Psynergy-Stein in einem neu entstandenen Krater. Diese Quelle deutet Psynergy-Steine ausserdem als Ausloeser mutierter, aggressiver Tiere und Pflanzen.
 
 ## Offene Fragen
 

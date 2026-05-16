@@ -26,7 +26,7 @@ Der vorgeschlagene Sandbox-Start ist ein Beben, ein Krater mit leuchtendem [[wik
 
 ## Key Takeaways
 
-- Der Start mit Beben und Krater konkurriert mit dem bisherigen Start-Arc [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]].[^4]
+- Der Start mit Beben und Krater ist nach spaeterer Entscheidung als kanonischer Kampagnenstart festgelegt.[^4][^5]
 - [[wiki/concepts/psynergy-stein|Psynergy-Steine]] koennen in dieser Variante Tiere aggressiv mutieren lassen.[^3]
 - [[wiki/concepts/dschinn|Dschinn]] werden als erste Verbuendete und Kampagnenwerkzeuge eingefuehrt.[^4]
 - Die [[wiki/entities/factions/entfessler|Entfessler]] erscheinen als fruehe antagonistische Adeptenfraktion, die nach Dschinn, Psynergy-Steinen und [[wiki/concepts/elementsterne|Elementsternen]] jagt.[^4]
@@ -42,7 +42,7 @@ Der vorgeschlagene Sandbox-Start ist ein Beben, ein Krater mit leuchtendem [[wik
 
 ## Relation to Other Wiki Pages
 
-Die Quelle erweitert [[wiki/syntheses/kampagnenkern|Kampagnenkern]] und [[wiki/overview|Wiki Overview]] um eine alternative Sandbox-Startstruktur. Sie erzeugt eine offene Entscheidung zwischen [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] und [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]].
+Die Quelle erweitert [[wiki/syntheses/kampagnenkern|Kampagnenkern]] und [[wiki/overview|Wiki Overview]] um die Sandbox-Startstruktur [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]], die nach spaeterer Entscheidung kanonisch ist.[^5] [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] bleibt als optionales spaeteres Arc-Material erhalten.[^5]
 
 ## Quellen
 
@@ -52,3 +52,4 @@ Die Quelle erweitert [[wiki/syntheses/kampagnenkern|Kampagnenkern]] und [[wiki/o
 [^2]: [[wiki/sources/campaign-frame|Campaign Frame]] raw/sources/Campaign-frame.txt:9-13 [synthesis] - Die Quelle beschreibt Weyard, Gaia Falls, Adepten, Psynergy, Elemente, Alchemie und Leuchttuerme.
 [^3]: [[wiki/sources/campaign-frame|Campaign Frame]] raw/sources/Campaign-frame.txt:14-16 [synthesis] - Psynergy-Steine, mutierte Tiere, Dschinn und Alchemie-Maschinen werden dort als Setting Distinctions genannt.
 [^4]: [[wiki/sources/campaign-frame|Campaign Frame]] raw/sources/Campaign-frame.txt:17-23 [synthesis] - Der Sandbox-Start mit Beben, Krater, Stein, mutierten Tieren, Dschinn und Entfessler-Vorhut wird dort beschrieben.
+[^5]: [[wiki/log|Log]] wiki/log.md:43-47 [synthesis] - Die spaetere Entscheidung legt Beben und Kraterfund als einzigen kanonischen Kampagnenstart fest und erhaelt den Minen-Arc als optionales Material.

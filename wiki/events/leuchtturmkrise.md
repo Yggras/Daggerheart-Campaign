@@ -17,7 +17,7 @@ Die Leuchtturmkrise ist der Zeitraum, in dem [[wiki/concepts/elementsterne|Eleme
 
 Die SC folgen nicht der Route der bekannten Figuren. Sie erleben Nebenfolgen: regionale Elementueberschuesse, Fraktionspanik, Dschinn-Wanderungen, veraenderte Psynergy und lokale Entscheidungen mit langfristigen Kosten.
 
-In der Startvariante [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] wird die Leuchtturmkrise direkter: Die [[wiki/entities/factions/entfessler|Entfessler]] jagen [[wiki/concepts/dschinn|Dschinn]], [[wiki/concepts/psynergy-stein|Psynergy-Steine]] und [[wiki/concepts/elementsterne|Elementsterne]], um die [[wiki/concepts/leuchttuerme|Leuchttuerme]] zu entzuenden.
+Im Kampagnenstart [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] wird die Leuchtturmkrise direkter: Die [[wiki/entities/factions/entfessler|Entfessler]] jagen [[wiki/concepts/dschinn|Dschinn]], [[wiki/concepts/psynergy-stein|Psynergy-Steine]] und [[wiki/concepts/elementsterne|Elementsterne]], um die [[wiki/concepts/leuchttuerme|Leuchttuerme]] zu entzuenden.
 
 ## Quellen
 

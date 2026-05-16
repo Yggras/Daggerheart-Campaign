@@ -23,12 +23,12 @@ Der zentrale Konflikt ist moralisch ambivalent: Die Versiegelung der [[wiki/conc
 - [[wiki/log|Log]]
 - [[wiki/questions/open-questions|Open Questions]]
 - [[wiki/syntheses/kampagnenkern|Kampagnenkern]]
-- [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]]
 - [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]]
+- [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]]
 
 ## Aktuelle Lage
 
-Die Kampagne hat aktuell zwei Startvarianten. Der bisherige empfohlene Start ist [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] auf der [[wiki/entities/places/altin-xian-kalay-route|Altin-Xian-Kalay-Route]]: Eine Mine wird durch alte Wassermechanik geflutet, der Merkur-Dschinn [[wiki/entities/items/tau|Tau]] sabotiert Pumpen, und lokale Interessen ziehen die SC in den Konflikt. Die neue Sandbox-Variante ist [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]]: Ein Krater mit [[wiki/concepts/psynergy-stein|Psynergy-Stein]], mutierte Tiere, ein frueher [[wiki/concepts/dschinn|Dschinn]] und die [[wiki/entities/factions/entfessler|Entfessler]] setzen sofort Fraktionsuhren in Gang.
+Die Kampagne startet mit [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]]: Ein Krater mit [[wiki/concepts/psynergy-stein|Psynergy-Stein]], mutierte Tiere, ein frueher [[wiki/concepts/dschinn|Dschinn]] und die [[wiki/entities/factions/entfessler|Entfessler]] setzen sofort Fraktionsuhren in Gang. [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] bleibt als optionales spaeteres Arc-Material erhalten, ist aber nicht mehr der Kampagnenstart.
 
 ## Wichtige Entitaeten
 
@@ -46,6 +46,5 @@ Die Kampagne hat aktuell zwei Startvarianten. Der bisherige empfohlene Start ist
 - Ist [[wiki/entities/places/weyard|Weyard]] natuerlich, erschaffen oder alchemisch stabilisiert?
 - Wie oeffentlich ist [[wiki/concepts/psynergy|Psynergy]] im Startgebiet bekannt?
 - Wie viele [[wiki/concepts/dschinn|Dschinn]] darf ein SC ausruesten, und brauchen Dschinn Zustimmung zu Bindung oder Wechsel?
-- Welcher Start ist kanonisch: Mine, Beben/Krater oder eine Kombination aus beiden?
 
 Siehe [[wiki/questions/open-questions|Open Questions]].

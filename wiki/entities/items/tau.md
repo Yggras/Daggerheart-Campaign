@@ -2,7 +2,7 @@
 type: item
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [05-dschinn-regelrahmen, 10-erster-handlungsbogen]
 tags: [dschinn, merkur]
 ---
@@ -11,7 +11,7 @@ tags: [dschinn, merkur]
 
 ## Beschreibung
 
-Tau ist ein [[wiki/concepts/merkur|Merkur]]-[[wiki/concepts/dschinn|Dschinn]]. Er ist sanft, traurig und erinnerungsstark. Im Start-Arc [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] sabotiert er Pumpen, weil eine Mine einen alten Wasserlauf toetet.
+Tau ist ein [[wiki/concepts/merkur|Merkur]]-[[wiki/concepts/dschinn|Dschinn]]. Er ist sanft, traurig und erinnerungsstark. Im optionalen Minen-Arc [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] sabotiert er Pumpen, weil eine Mine einen alten Wasserlauf toetet.
 
 ## Status
 

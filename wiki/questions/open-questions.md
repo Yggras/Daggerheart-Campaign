@@ -20,8 +20,6 @@ Diese Seite sammelt offene Fragen, Wissensluecken, Unsicherheiten und Themen fue
 - Welche Fraktion ist einem SC persoenlich bekannt?
 - Hat ein SC bereits einen [[wiki/concepts/dschinn|Dschinn]] gesehen?
 - Welche Fraktion gibt den ersten Auftrag?
-- Wie nah liegt die Startmine an Altin, Xian oder Kalay?
-- Ist [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]], [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] oder eine Kombination aus beiden der eigentliche Start?
 - Wird der erste Dschinn [[wiki/entities/items/tau|Tau]] sein oder ein anderer Dschinn aus dem Krater-Start?
 
 ## Quellenbedarf
@@ -29,7 +27,7 @@ Diese Seite sammelt offene Fragen, Wissensluecken, Unsicherheiten und Themen fue
 - Konkrete SC-Konzepte und Elementzuordnungen.
 - Finale Safety-, Lines-/Veils- und Tonvereinbarungen aus [[wiki/sessions/session-zero|Session Zero]].
 - Daggerheart-Charakteroptionen der Spieler.
-- Session-1-Notizen fuer [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]].
+- Session-1-Notizen fuer [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]].
 
 ## Lore-Fragen
 
@@ -67,6 +65,7 @@ Diese Seite sammelt offene Fragen, Wissensluecken, Unsicherheiten und Themen fue
 - Wird der [[wiki/entities/places/weltrand|Weltrand]] tatsaechlich besucht?
 - Ist [[wiki/entities/places/lemuria|Lemuria]] ein spaetes Kampagnenziel oder nur Mythos?
 - Liegt der Krater-/Vulkanausbruch-Start auf [[wiki/entities/places/gondowan-und-lalivero|Gondowan]], auf der [[wiki/entities/places/altin-xian-kalay-route|Altin-Xian-Kalay-Route]] oder an einem anderen Ort?
+- Wie nah liegt die optionale Mine aus [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] an Altin, Xian oder Kalay, falls der Arc spaeter genutzt wird?
 
 ## Dschinn-Fragen
 

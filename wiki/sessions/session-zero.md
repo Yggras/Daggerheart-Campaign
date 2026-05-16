@@ -2,8 +2,8 @@
 type: session
 status: active
 created: 2026-05-15
-updated: 2026-05-15
-sources: [09-session-zero]
+updated: 2026-05-16
+sources: [09-session-zero, campaign-frame, factions]
 tags: [session-zero, table]
 ---
 
@@ -24,8 +24,10 @@ tags: [session-zero, table]
 
 ## Startvorschlag
 
-Die Gruppe befindet sich auf der [[wiki/entities/places/altin-xian-kalay-route|Altin-Xian-Kalay-Route]] und wird in [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] verwickelt.
+Die Gruppe erlebt den Start [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]]: Ein Beben reisst einen Krater auf, darin liegt ein leuchtender [[wiki/concepts/psynergy-stein|Psynergy-Stein]], mutierte Tiere greifen an, ein [[wiki/concepts/dschinn|Dschinn]] erscheint, und die [[wiki/entities/factions/entfessler|Entfessler]] setzen die erste Fraktionsuhr in Gang.
 
 ## Quellen
 
 - [[wiki/sources/09-session-zero|Session Zero]]
+- [[wiki/sources/campaign-frame|Campaign Frame]]
+- [[wiki/sources/factions|Factions]]

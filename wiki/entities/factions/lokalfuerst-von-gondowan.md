@@ -30,7 +30,7 @@ Der Lokalfuerst von Gondowan ist ein machthungriger Regent einer nahen Grossstad
 
 ## Widersprueche / Unsicherheiten
 
-- Der bisherige empfohlene Start liegt auf der [[wiki/entities/places/altin-xian-kalay-route|Altin-Xian-Kalay-Route]], nicht eindeutig in Gondowan. Der regionale Einsatz des Lokalfuersten muss entschieden werden.
+- Der festgelegte Start ist [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]]. Ob dieser Krater nahe Gondowan liegt und den Lokalfuersten sofort aktiviert, muss noch entschieden werden.
 
 ## Quellen
 

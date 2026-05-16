@@ -38,8 +38,8 @@ Dieser Index ist der inhaltliche Katalog des Wikis. Der Agent liest ihn zuerst, 
 
 ## Characters
 
-- [[wiki/entities/characters/raska|Raska]] - Minenvorsteherin im Start-Arc.
-- [[wiki/entities/characters/selen|Selen]] - Merkur-Heilerin im Start-Arc.
+- [[wiki/entities/characters/raska|Raska]] - Minenvorsteherin im optionalen Minen-Arc.
+- [[wiki/entities/characters/selen|Selen]] - Merkur-Heilerin im optionalen Minen-Arc.
 - [[wiki/entities/characters/dorvan|Dorvan]] - Kalay-Patron mit Besitzanspruechen.
 - [[wiki/entities/characters/ilyen|Ilyen]] - Jupiter-Bote mit Visionen zur Mine.
 - [[wiki/entities/characters/isaac|Isaac]] - entfernter Held und Hintergrundkraft.
@@ -55,7 +55,7 @@ Dieser Index ist der inhaltliche Katalog des Wikis. Der Agent liest ihn zuerst, 
 - [[wiki/entities/places/weyard|Weyard]] - flache Kampagnenwelt.
 - [[wiki/entities/places/weltrand|Weltrand]] - physische Grenze Weyards.
 - [[wiki/entities/places/gaia-falls|Gaia Falls]] - Orte, an denen Ozeane in den Abgrund stuerzen.
-- [[wiki/entities/places/altin-xian-kalay-route|Altin-Xian-Kalay-Route]] - empfohlene Startregion.
+- [[wiki/entities/places/altin-xian-kalay-route|Altin-Xian-Kalay-Route]] - moegliche fruehe Reiseregion und Minen-Arc-Schauplatz.
 - [[wiki/entities/places/vale-und-aleph-massiv|Vale und Aleph-Massiv]] - Ursprung von Tabus und Sol-Sanctum-Geheimnissen.
 - [[wiki/entities/places/sol-sanctum|Sol Sanctum]] - alter Siegel- und Wissensort.
 - [[wiki/entities/places/imil-und-merkur-leuchtturm|Imil und Merkur-Leuchtturm]] - Heilung, Wasser, Eis und Schuld.
@@ -83,7 +83,7 @@ Dieser Index ist der inhaltliche Katalog des Wikis. Der Agent liest ihn zuerst, 
 
 ## Items
 
-- [[wiki/entities/items/tau|Tau]] - Merkur-Dschinn des Start-Arcs.
+- [[wiki/entities/items/tau|Tau]] - Merkur-Dschinn des optionalen Minen-Arcs.
 - [[wiki/entities/items/kiesel|Kiesel]] - Venus-Beispieldschinn.
 - [[wiki/entities/items/esse|Esse]] - Mars-Beispieldschinn.
 - [[wiki/entities/items/boee|Boee]] - Jupiter-Beispieldschinn.
@@ -109,8 +109,8 @@ Dieser Index ist der inhaltliche Katalog des Wikis. Der Agent liest ihn zuerst, 
 
 - [[wiki/events/leuchtturmkrise|Leuchtturmkrise]] - Zeitraum der Elementstern-, Leuchtturm- und Alchemiekrise.
 - [[wiki/events/weltverfall|Weltverfall]] - langsame kosmologische Erosion Weyards.
-- [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] - erster Handlungsbogen.
-- [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] - alternativer Sandbox-Start mit Krater, Psynergy-Stein und Fraktionsuhren.
+- [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] - kanonischer Sandbox-Start mit Krater, Psynergy-Stein und Fraktionsuhren.
+- [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] - optionales spaeteres Minen-Arc-Material.
 
 ## Sessions
 

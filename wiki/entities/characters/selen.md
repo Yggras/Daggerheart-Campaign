@@ -2,16 +2,16 @@
 type: character
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: [08-nsc-und-schluesselfiguren, 10-erster-handlungsbogen]
-tags: [npc, merkur, start-arc]
+tags: [npc, merkur, mine-arc]
 ---
 
 # Selen
 
 ## Beschreibung
 
-Selen ist eine [[wiki/concepts/merkur|Merkur]]-Heilerin im Start-Arc [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]]. Ihre Quelle reicht nicht aus; sie glaubt, dass das Minenwasser mit einer Heilader verbunden ist.
+Selen ist eine [[wiki/concepts/merkur|Merkur]]-Heilerin im optionalen Minen-Arc [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]]. Ihre Quelle reicht nicht aus; sie glaubt, dass das Minenwasser mit einer Heilader verbunden ist.
 
 ## Rolle
 

@@ -42,7 +42,7 @@ Die Fraktionsziele verbinden den neuen Start mit konkretem Druck: Die Entfessler
 
 ## Relation to Other Wiki Pages
 
-Diese Quelle erweitert die Fraktionsschicht des Wikis und konkretisiert neue Countdowns fuer den alternativen Start. Sie steht in Spannung zum bisherigen Start-Arc [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]], weil ihre Uhren direkt aus dem Beben-/Krater-Ausloeser entstehen.
+Diese Quelle erweitert die Fraktionsschicht des Wikis und konkretisiert neue Countdowns fuer den Start [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]], der nach spaeterer Entscheidung als kanonischer Kampagnenstart festgelegt wurde.[^4]
 
 ## Quellen
 
@@ -51,3 +51,4 @@ Diese Quelle erweitert die Fraktionsschicht des Wikis und konkretisiert neue Cou
 [^1]: [[wiki/sources/factions|Factions]] raw/sources/Factions.txt:1-7 [synthesis] - Die Quelle beschreibt Fraktionen, fuenf Definitionsfelder und Countdowns.
 [^2]: [[wiki/sources/factions|Factions]] raw/sources/Factions.txt:8-36 [synthesis] - Die fuenf Fraktionen werden mit Identitaet, Ideologie, Ziel, Countdown und Daggerheart-Rolle beschrieben.
 [^3]: [[wiki/sources/factions|Factions]] raw/sources/Factions.txt:12-35 [synthesis] - Die konkreten Countdowns der fuenf Fraktionen stehen dort.
+[^4]: [[wiki/log|Log]] wiki/log.md:43-47 [synthesis] - Die spaetere Entscheidung legt Beben und Kraterfund als einzigen kanonischen Kampagnenstart fest.

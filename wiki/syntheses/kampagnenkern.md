@@ -25,14 +25,14 @@ Eine neuere Quelle setzt als alternativen Arbeitstitel **Golden Sun - Das gebroc
 - Fraktionen mit verstaendlichen Zielen und gefaehrlichen Methoden.
 - [[wiki/concepts/hope-und-fear|Hope und Fear]] als Motor fuer Kontrolle, Kosten und Konsequenzen.
 
-## Startvarianten
+## Kampagnenstart
 
-- [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]]: bisheriger vorlaeufiger Start-Arc mit Mine, Wassermechanik und [[wiki/entities/items/tau|Tau]].
-- [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]]: neuer Sandbox-Start mit Krater, [[wiki/concepts/psynergy-stein|Psynergy-Stein]], mutierter Natur und Fraktionsuhren.
+[[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] ist der festgelegte Kampagnenstart. Der Auftakt beginnt mit einem Beben, einem Krater, einem leuchtenden [[wiki/concepts/psynergy-stein|Psynergy-Stein]], mutierter Natur, einem fruehen [[wiki/concepts/dschinn|Dschinn]] und Fraktionsdruck durch die [[wiki/entities/factions/entfessler|Entfessler]].
+
+[[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] bleibt als optionales spaeteres Arc-Material erhalten, ist aber nicht mehr Start der Kampagne.
 
 ## Widersprueche / Unsicherheiten
 
-- Offen ist, welcher Start als kanonischer Kampagnenauftakt gilt oder ob beide kombiniert werden.
 - Offen ist, ob **Weyard: Schatten der Leuchttuerme** oder **Golden Sun - Das gebrochene Siegel** der bevorzugte Arbeitstitel ist.
 
 ## Quellen
