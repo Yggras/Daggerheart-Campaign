@@ -5,22 +5,28 @@ description: Use when adding a new source to a wiki — a paper, article, URL, f
 
 # Wiki Ingest
 
-Add a source to the wiki. Read it, discuss with the user, write a summary page, update entity/concept pages, and maintain the index, overview, and log.
+Add a source to the wiki. Read it, discuss with the user, write a summary page, update entity/concept pages, maintain the index, overview, and log, then move the processed original source from `raw/inbox/` to `raw/sources/`.
 
 ## Pre-condition
 
 Search for `AGENTS.md` starting from the current directory and upward, or in common wiki locations (`~/wikis/`). If not found, tell the user to run `wiki-init` first.
 
-Read `AGENTS.md` to learn: wiki root path, page frontmatter format, cross-reference convention, log entry format, index category taxonomy.
+Read `AGENTS.md` to learn: wiki root path, source ownership rules, page frontmatter format, cross-reference convention, log entry format, index category taxonomy, and any vault-specific directory layout. Vault instructions override this skill whenever they are more specific.
 
 ## Process
 
 ### 1. Accept the source
 
 The source can be:
-- **File path** — read it directly; copy to `raw/<filename>` if not already there
-- **URL** — use the `browse` skill to fetch it; save to `raw/<slug>.<ext>`
-- **Pasted text** — use what was provided
+- **File path inside `raw/inbox/`** — read it directly and reserve the final processed path `raw/sources/<filename>`.
+- **File path inside `raw/sources/`** — read it directly; it is already processed storage, so do not move it later.
+- **File path outside `raw/`** — read it directly; if a durable raw copy is needed, copy it to `raw/inbox/<filename>` before ingest, then treat that copy as the source.
+- **URL** — fetch it with the available web fetch tool; save the raw capture to `raw/inbox/<slug>.<ext>` before ingest.
+- **Pasted text** — save it to `raw/inbox/<slug>.md` before ingest, unless the user explicitly says not to persist it.
+
+Never delete original sources. Never edit the contents of files under `raw/`. If the target `raw/sources/<filename>` already exists and is not the same source, stop and ask the user for a filename decision.
+
+Before writing wiki pages, determine the final source path that will be true after ingest completes. For a source in `raw/inbox/`, this is normally `raw/sources/<filename>`. Use that final path in source-summary metadata and citations so the wiki does not need path rewrites after the move.
 
 ### 2. Read the source in full
 
@@ -44,21 +50,26 @@ Example: "Attention Is All You Need" → `attention-is-all-you-need`
 
 ### 5. Write the source summary page
 
-Write `wiki/pages/<slug>.md`:
+Write `wiki/sources/<slug>.md` unless `AGENTS.md` specifies a different source-summary location:
 
 ```markdown
 ---
-title: <source title>
-tags: [<relevant tags>]
-sources: [<slug>]
+type: source-summary
+status: active
+created: <today>
 updated: <today>
+source_path: raw/sources/<filename>
+source_type: <paper | article | transcript | code | note | other>
+source_date: <source date or unknown>
+sources: [<slug>]
+tags: [source, <relevant tags>]
 ---
 
 # <Source Title>
 
-**Source:** <original URL or file path>
-**Date ingested:** <today>
-**Type:** <paper | article | transcript | code | other>
+**Quelle:** `raw/sources/<filename>`
+**Datum ingestiert:** <today>
+**Typ:** <paper | article | transcript | code | note | other>
 
 ## Summary
 
@@ -90,13 +101,12 @@ Quote:     [^N]: <target> <locator> — "<verbatim quote>"
 Synthesis: [^N]: <target> <locator> [synthesis] — <what supports the claim>
 
 <target> is one of:
-  [[source-slug]]      — a source wiki page (preferred for the source you're ingesting)
-  raw/<file>           — a path, for drive-by citations to other local files
+  [[wiki/sources/source-slug|Source Title]] — a source wiki page (preferred for the source you're ingesting)
+  raw/sources/<file>   — final processed source path, for drive-by citations to local files
   <URL>                — a live URL or post
 ```
 
-For the source being ingested, use `[[<this-source-slug>]]` — `wiki-ingest`
-is creating that page now, so the target exists by the time the page is read.
+For the source being ingested, use `[[wiki/sources/<this-source-slug>|<Source Title>]]` and cite the final processed raw path in the locator, for example `raw/sources/<filename>:12-18`. The source page is created during ingest, and the raw file is moved there only after all wiki updates succeed.
 
 If you cannot produce either citation kind for a claim, you do not have a
 citation. Find one, weaken the claim ("the paper suggests..."), or drop it.
@@ -115,34 +125,45 @@ the wording. Only then move on to entity pages.
 For each entity/concept touched by this source:
 
 - **Page exists:** Read it, add to or update the relevant section, add this source to frontmatter `sources` list, update `updated` date
-- **Page doesn't exist:** Create it:
+- **Page doesn't exist:** Create it in the directory required by `AGENTS.md`, for example `wiki/entities/characters/`, `wiki/entities/places/`, `wiki/entities/factions/`, `wiki/entities/items/`, `wiki/concepts/`, `wiki/events/`, or `wiki/sessions/`:
 
 ```markdown
 ---
-title: <Entity or Concept Name>
-tags: [entity | concept]
-sources: [<this-source-slug>]
+type: <character | place | faction | item | concept | event | session | synthesis | question>
+status: draft
+created: <today>
 updated: <today>
+aliases: []
+sources: [<this-source-slug>]
+tags: [<entity | concept | relevant tags>]
 ---
 
 # <Name>
 
-## Description
+## Beschreibung
 
 <synthesis across all sources that discuss this>
 
-## Appearances in Sources
+## Bekannte Fakten
 
-- [[source-slug]] — <one-line note>
+<facts with source links>
 
-## Related Concepts
+## Beziehungen
 
-- [[related-slug]] — <relationship>
+<relevant wiki links>
+
+## Widersprueche / Unsicherheiten
+
+<known gaps or contradictions>
+
+## Quellen
+
+- [[wiki/sources/source-slug|Source Title]] — <one-line note>
 ```
 
 ### 7. Backlink audit — do not skip
 
-Scan ALL existing pages in `wiki/pages/` for any that mention this source's entities/concepts but don't yet link to the new page. Add `[[new-slug]]` references where appropriate.
+Scan ALL existing pages under `wiki/` for any that mention this source's entities/concepts but don't yet link to the relevant page. Add Obsidian wikilinks with vault-appropriate paths, for example `[[wiki/entities/characters/name|Name]]`, where appropriate.
 
 This is the step most commonly skipped. A compounding wiki's value comes from bidirectional links.
 
@@ -164,13 +185,29 @@ Re-read the current overview. If this source:
 
 Update the frontmatter `updated` date.
 
-### 10. Append to `wiki/log.md`
+### 10. Move the processed source
+
+After the source summary, entity/concept updates, backlink audit, index update, and overview update have completed successfully, move the processed original source from `raw/inbox/<filename>` to `raw/sources/<filename>`.
+
+Rules:
+- Move only the original raw file, never delete it.
+- Do not rewrite or normalize the raw file contents.
+- Do not move files from `notes/`; notes are human-owned input and should remain where they are unless the user explicitly requests otherwise.
+- Do not move assets or attachments unless the user explicitly requests it.
+- If moving fails, leave the wiki updates in place, append the log with `Source move failed: <reason>`, report the failure, and keep the source in `raw/inbox/`.
+
+If the source was already in `raw/sources/`, do not move it.
+
+### 10b. Append to `wiki/log.md`
 
 ```
 ## [<today>] ingest | <source title>
 Pages written: <slug>
 Pages updated: <comma-separated list>
+Source moved: raw/inbox/<filename> -> raw/sources/<filename>
 ```
+
+If the source was already in `raw/sources/`, write `Source retained: raw/sources/<filename>` instead. If the move failed, write `Source move failed: <reason>` instead.
 
 ## Common Mistakes
 
@@ -180,7 +217,8 @@ Pages updated: <comma-separated list>
 
 ### 11. Report to user
 
-- Summary page: `wiki/pages/<slug>.md`
+- Summary page: `wiki/sources/<slug>.md`
 - Entity/concept pages created or updated: <list>
 - Pages that received backlinks: <list>
 - Index and overview updated
+- Source moved: `raw/inbox/<filename>` -> `raw/sources/<filename>` or source retained in `raw/sources/`
