@@ -2,8 +2,8 @@
 type: faction
 status: active
 created: 2026-05-15
-updated: 2026-05-15
-sources: [06-fraktionen, 09-session-zero]
+updated: 2026-05-16
+sources: [06-fraktionen, 09-session-zero, factions]
 tags: [faction, dschinn]
 ---
 
@@ -24,7 +24,12 @@ Dschinn-Sucher sind lose Abenteurer, Sammler, Mystiker, Adepten und Monsterjaege
 
 [[wiki/concepts/dschinn|Dschinn]] sind keine Gegenstaende. Manche wollen gefunden werden, andere fliehen.
 
+## Gegenspieler
+
+- [[wiki/entities/factions/schattensammler|Schattensammler]]: kriminelle Sammler, die Dschinn und [[wiki/concepts/psynergy-stein|Psynergy-Steine]] horten oder verkaufen wollen.
+
 ## Quellen
 
 - [[wiki/sources/06-fraktionen|Fraktionen]]
 - [[wiki/sources/09-session-zero|Session Zero]]
+- [[wiki/sources/factions|Factions]]

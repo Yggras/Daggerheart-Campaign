@@ -1,0 +1,37 @@
+Im proaktiven Rollenspiel sind Fraktionen das wichtigste Werkzeug für dich als Spielleiter. Wenn die Spieler durch ihre Entscheidungen die Handlung vorantreiben, sind die Fraktionen dein Gegenstück: Sie dringen in den Raum ein, den die Spieler geschaffen haben, und verfolgen unerbittlich ihre eigenen Ziele – oft zum Nachteil der Spieler
+.
+Um eine Fraktion zu erschaffen, definierst du laut dem Handbuch für proaktives Rollenspiel fünf Dinge: Identität, Aktionsbereich, Machtlevel, Ideologie und vor allem ihre Ziele
+. Um den Fortschritt dieser Ziele zu messen, nutzen wir sogenannte "Uhren" (Clocks)
+. In Daggerheart wird dieses Konzept Countdowns genannt
+. Das ist ein Kreis mit z. B. 4 oder 6 Segmenten. Jedes Mal, wenn die Fraktion ihrem Ziel im Hintergrund näher kommt, füllst du ein Segment aus
+. Ist die Uhr voll, passiert ein großes Ereignis in der Welt.
+Lass uns das 5x5-Raster für deine Golden Sun Kampagne mit fünf unterschiedlichen Fraktionen füllen, die alle durch das Beben aus deinem Auslöser (Inciting Incident) aktiv geworden sind:
+1. Die Vorhut der Entfessler (Hauptantagonisten)
+Identität: Skrupellose, extrem mächtige Adepten aus dem kalten Norden (ähnlich wie Saturos und Menardi).
+Ideologie & Ziel: Sie glauben, dass die Welt ohne Alchemie langsam verfällt. Ihr Ziel ist es, die gestohlenen Elementarsterne zu nutzen, um die vier Elementaren Leuchttürme zu entzünden.
+Aktueller Countdown (4 Segmente): "Den Merkur-Leuchtturm erreichen und die Wachen ausschalten."
+Daggerheart-Rolle: Sie sind das Gesicht der Gefahr. Deine Spieler treffen im Krater direkt auf eine Gruppe dieser Vorhut. (Typische Daggerheart-Gegner: Leader oder Bruiser).
+2. Die Schattensammler (Die Plünderer)
+Identität: Eine Diebesgilde und korrupte Gelehrte, die Magie als reines Werkzeug für Reichtum sehen.
+Ideologie & Ziel: Wer die Djinns kontrolliert, kontrolliert die Welt. Sie wollen alle Elementargeister und Psynergy-Steine horten und auf dem Schwarzmarkt verkaufen.
+Aktueller Countdown (4 Segmente): "Den Djinn aufspüren, der beim jüngsten Beben freigesetzt wurde." (Da dieser Djinn gerade bei deinen Spielern ist, kreuzen sich ihre Wege bald zwangsläufig!)
+Daggerheart-Rolle: Heimliche Jäger und Diebe. (Typische Gegner: Skulks, ähnlich den "Jagged Knife Shadows", die aus dem Verborgenen angreifen und Gegenstände stehlen können
+).
+3. Die mutierte Natur (Die Naturgewalt)
+Identität: Tiere und Pflanzen, die durch die herabgeregneten Psynergy-Steine korrumpiert wurden. Sie sind nicht "böse", sondern eine instinktgetriebene Gefahr.
+Ideologie & Ziel: Ausbreitung und Zerstörung von Zivilisation, getrieben durch den Schmerz der Mutationen.
+Aktueller Countdown (6 Segmente): "Ein Schwarm mutierter Bestien überrennt das nächstgelegene Dorf."
+Daggerheart-Rolle: Wilde Biester und unberechenbare Gefahren in der Wildnis. (Typische Gegner: Hordes oder Minions, wie mutierte Bären oder riesige Insekten
+).
+4. Der Lokalfürst von Gondowan (Die Autorität)
+Identität: Ein machthungriger Regent einer nahen Großstadt (inspiriert von Babi aus Tolbi).
+Ideologie & Ziel: Er spürt, dass die Welt sich wandelt, und will die Macht der Adepten für seine eigene Armee nutzen. Er lässt jeden verhaften, der Psynergy wirken kann, um ihn in seine Dienste zu zwingen.
+Aktueller Countdown (4 Segmente): "Söldner entsenden, um das Gebiet des Vulkanausbruchs abzuriegeln."
+Daggerheart-Rolle: Ein politisches Hindernis, das eher soziale Begegnungen und Wachen mit sich bringt. (Typischer Gegner: Social oder Standard, wie der "Petty Noble" oder "Bladed Guards"
+).
+5. Die puritanischen Wächter (Der extreme Gegenpol)
+Identität: Eine Splittergruppe der alten Jenei, die sich dem Schutz des Siegels verschrieben hat – allerdings mit fanatischen Methoden.
+Ideologie & Ziel: Die Alchemie darf unter keinen Umständen erwachen. Jeder, der einen Djinn oder Psynergy-Stein besitzt, ist ein potenzielles Risiko und muss eliminiert werden – selbst unschuldige Helden.
+Aktueller Countdown (6 Segmente): "Das nächste Heiligtum mit tödlichen, uralten Alchemie-Maschinen abriegeln."
+Daggerheart-Rolle: Rivalen mit eigentlich gutem Motiv, aber grausamen Mitteln. Ein Konflikt ist unausweichlich, wenn sie die Spieler für Verräter halten.
+Wie greift das ins Spiel ein? Wenn die Spieler nach der ersten Session sagen: "Wir ignorieren die Entfessler erstmal und wollen lieber unserem Heimatdorf gegen die mutierte Natur helfen", dann notierst du das. Während die Spieler das Dorf retten, tickt der Countdown der Entfessler im Hintergrund weiter – sie kommen dem Leuchtturm näher, während die Spieler woanders beschäftigt sind. Das lässt die Welt extrem lebendig wirken

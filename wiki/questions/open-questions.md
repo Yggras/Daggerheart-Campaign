@@ -2,7 +2,7 @@
 type: question
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: []
 tags: [questions, gaps]
 ---
@@ -21,6 +21,8 @@ Diese Seite sammelt offene Fragen, Wissensluecken, Unsicherheiten und Themen fue
 - Hat ein SC bereits einen [[wiki/concepts/dschinn|Dschinn]] gesehen?
 - Welche Fraktion gibt den ersten Auftrag?
 - Wie nah liegt die Startmine an Altin, Xian oder Kalay?
+- Ist [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]], [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] oder eine Kombination aus beiden der eigentliche Start?
+- Wird der erste Dschinn [[wiki/entities/items/tau|Tau]] sein oder ein anderer Dschinn aus dem Krater-Start?
 
 ## Quellenbedarf
 
@@ -47,6 +49,7 @@ Diese Seite sammelt offene Fragen, Wissensluecken, Unsicherheiten und Themen fue
 - Wie stark darf Heil-[[wiki/concepts/psynergy|Psynergy]] sein?
 - Wie oft sollen [[wiki/concepts/beschwoerungen|Beschwoerungen]] moeglich sein?
 - Sollen [[wiki/concepts/psynergy-stein|Psynergy-Steine]] eine harte Ressource haben?
+- Mutieren [[wiki/concepts/psynergy-stein|Psynergy-Steine]] grundsaetzlich Tiere und Pflanzen oder nur im Krater-Start?
 
 ## Fraktionsfragen
 
@@ -54,6 +57,8 @@ Diese Seite sammelt offene Fragen, Wissensluecken, Unsicherheiten und Themen fue
 - Welche Fraktion hat am meisten recht?
 - Welche Fraktion hat das gefaehrlichste Geheimnis?
 - Ist [[wiki/entities/places/prox|Prox]] frueh als menschlich sichtbare Seite geplant oder anfangs nur Feindbild?
+- Sind die [[wiki/entities/factions/entfessler|Entfessler]] eine eigene Fraktion oder eine radikale Spieltisch-Bezeichnung fuer Teile der [[wiki/entities/factions/proxeanische-rettungsfraktion|Proxeanischen Rettungsfraktion]]?
+- Sind die [[wiki/entities/factions/puritanische-waechter|Puritanischen Waechter]] eine Splittergruppe der [[wiki/entities/factions/hueter-des-siegels|Hueter des Siegels]] oder eine eigenstaendige Jenei-Tradition?
 
 ## Ortsfragen
 
@@ -61,6 +66,7 @@ Diese Seite sammelt offene Fragen, Wissensluecken, Unsicherheiten und Themen fue
 - Wann soll [[wiki/entities/places/vale-und-aleph-massiv|Vale]] erstmals relevant werden?
 - Wird der [[wiki/entities/places/weltrand|Weltrand]] tatsaechlich besucht?
 - Ist [[wiki/entities/places/lemuria|Lemuria]] ein spaetes Kampagnenziel oder nur Mythos?
+- Liegt der Krater-/Vulkanausbruch-Start auf [[wiki/entities/places/gondowan-und-lalivero|Gondowan]], auf der [[wiki/entities/places/altin-xian-kalay-route|Altin-Xian-Kalay-Route]] oder an einem anderen Ort?
 
 ## Dschinn-Fragen
 

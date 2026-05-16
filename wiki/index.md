@@ -2,7 +2,7 @@
 type: maintenance
 status: active
 created: 2026-05-15
-updated: 2026-05-15
+updated: 2026-05-16
 sources: []
 tags: [index]
 ---
@@ -33,6 +33,8 @@ Dieser Index ist der inhaltliche Katalog des Wikis. Der Agent liest ihn zuerst, 
 - [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]] - Spielbarer Auftakt Der Dschinn in der Mine. _(ingested 2026-05-15)_
 - [[wiki/sources/11-offene-fragen-und-entscheidungen|Offene Fragen und Entscheidungen]] - Getroffene Entscheidungen und offene Pruefpunkte. _(ingested 2026-05-15)_
 - [[wiki/sources/12-glossar|Glossar]] - Kanonische deutsche Begriffe und Daggerheart-Terminologie. _(ingested 2026-05-15)_
+- [[wiki/sources/campaign-frame|Campaign Frame]] - Alternativer Kampagnenrahmen mit Beben, Krater und Entfesslern. _(ingested 2026-05-16)_
+- [[wiki/sources/factions|Factions]] - Fraktionsuhren fuer den Beben-/Krater-Start. _(ingested 2026-05-16)_
 
 ## Characters
 
@@ -73,6 +75,11 @@ Dieser Index ist der inhaltliche Katalog des Wikis. Der Agent liest ihn zuerst, 
 - [[wiki/entities/factions/haendlerliga-von-kalay-und-tolbi|Haendlerliga von Kalay und Tolbi]] - handelt mit Gold, Patronage und Exklusivwissen.
 - [[wiki/entities/factions/dschinn-sucher|Dschinn-Sucher]] - suchen, schuetzen oder beschaffen Dschinn.
 - [[wiki/entities/factions/lokale-autoritaeten|Lokale Autoritaeten]] - stabilisieren Alltag mit begrenzten Informationen.
+- [[wiki/entities/factions/entfessler|Entfessler]] - antagonistische Adepten, die Leuchttuerme entzuenden wollen.
+- [[wiki/entities/factions/schattensammler|Schattensammler]] - Diebe und Gelehrte, die Dschinn und Psynergy-Steine horten.
+- [[wiki/entities/factions/mutierte-natur|Mutierte Natur]] - durch Psynergy-Steine korrumpierte Tiere und Pflanzen.
+- [[wiki/entities/factions/lokalfuerst-von-gondowan|Lokalfuerst von Gondowan]] - lokaler Regent, der Adepten militarisieren will.
+- [[wiki/entities/factions/puritanische-waechter|Puritanische Waechter]] - fanatische Siegelwaechter mit toedlichen Methoden.
 
 ## Items
 
@@ -103,6 +110,7 @@ Dieser Index ist der inhaltliche Katalog des Wikis. Der Agent liest ihn zuerst, 
 - [[wiki/events/leuchtturmkrise|Leuchtturmkrise]] - Zeitraum der Elementstern-, Leuchtturm- und Alchemiekrise.
 - [[wiki/events/weltverfall|Weltverfall]] - langsame kosmologische Erosion Weyards.
 - [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]] - erster Handlungsbogen.
+- [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] - alternativer Sandbox-Start mit Krater, Psynergy-Stein und Fraktionsuhren.
 
 ## Sessions
 

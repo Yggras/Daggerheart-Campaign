@@ -2,8 +2,8 @@
 type: concept
 status: active
 created: 2026-05-15
-updated: 2026-05-15
-sources: [00-kanon-und-adaptionspolitik, 01-kampagnenueberblick, 05-dschinn-regelrahmen, 09-session-zero, 12-glossar]
+updated: 2026-05-16
+sources: [00-kanon-und-adaptionspolitik, 01-kampagnenueberblick, 05-dschinn-regelrahmen, 09-session-zero, 12-glossar, campaign-frame, factions]
 tags: [dschinn, rules, companions]
 ---
 
@@ -19,6 +19,8 @@ Ein ausgeruesteter Dschinn gibt einen passiven Bonus, der wie eine Daggerheart-E
 
 Dschinn werden nicht einfach gesammelt. Bindung entsteht durch Hilfe, Loesung eines elementaren Problems, Anerkennung ihres Instinkts, Sieg in einer Pruefung, gemeinsames Ueberstehen von Gefahr oder ein Versprechen.
 
+Im Start [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] kann ein Dschinn durch die Erschuetterung eines [[wiki/concepts/psynergy-stein|Psynergy-Steins]] angezogen werden und der Gruppe erste kryptische Hinweise auf das gebrochene Siegel geben.
+
 ## Bekannte Dschinn
 
 - [[wiki/entities/items/kiesel|Kiesel]]
@@ -32,6 +34,7 @@ Dschinn werden nicht einfach gesammelt. Bindung entsteht durch Hilfe, Loesung ei
 - Koennen Dschinn zwischen SC frei wechseln?
 - Brauchen Dschinn Zustimmung zu Bindung oder Wechsel?
 - Gibt es Klassenwechsel oder bleibt es bei Experiences und Entfesseln?
+- Ist der erste Dschinn in der Beben-Variante [[wiki/entities/items/tau|Tau]], ein neuer Dschinn oder eine Alternative zu Tau?
 
 ## Quellen
 
@@ -39,3 +42,5 @@ Dschinn werden nicht einfach gesammelt. Bindung entsteht durch Hilfe, Loesung ei
 - [[wiki/sources/05-dschinn-regelrahmen|Dschinn-Regelrahmen]]
 - [[wiki/sources/09-session-zero|Session Zero]]
 - [[wiki/sources/12-glossar|Glossar]]
+- [[wiki/sources/campaign-frame|Campaign Frame]]
+- [[wiki/sources/factions|Factions]]

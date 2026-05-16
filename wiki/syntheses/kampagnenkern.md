@@ -2,8 +2,8 @@
 type: synthesis
 status: active
 created: 2026-05-15
-updated: 2026-05-15
-sources: [01-kampagnenueberblick, 02-praemisse-und-ton, 09-session-zero]
+updated: 2026-05-16
+sources: [01-kampagnenueberblick, 02-praemisse-und-ton, 09-session-zero, campaign-frame, factions]
 tags: [campaign, synthesis]
 ---
 
@@ -15,6 +15,8 @@ Die Kampagne **Weyard: Schatten der Leuchttuerme** spielt waehrend der ersten Go
 
 Der Kernkonflikt ist die moralische Ambivalenz von [[wiki/concepts/alchemie|Alchemie]]: Das Siegel schuetzt vor Missbrauch, kann [[wiki/entities/places/weyard|Weyard]] aber langfristig ersticken. Die SC muessen lokale Antworten finden, statt einfach Kanonentscheidungen nachzuvollziehen.
 
+Eine neuere Quelle setzt als alternativen Arbeitstitel **Golden Sun - Das gebrochene Siegel** und schlaegt einen staerker sandboxartigen Start vor: ein Beben, ein Krater mit [[wiki/concepts/psynergy-stein|Psynergy-Stein]], mutierte Tiere, ein frueher [[wiki/concepts/dschinn|Dschinn]] und die [[wiki/entities/factions/entfessler|Entfessler]] als direkte Gegenspieler.
+
 ## Kampagnenversprechen
 
 - Elementare Reiseabenteuer in einer sterbenden flachen Welt.
@@ -23,8 +25,20 @@ Der Kernkonflikt ist die moralische Ambivalenz von [[wiki/concepts/alchemie|Alch
 - Fraktionen mit verstaendlichen Zielen und gefaehrlichen Methoden.
 - [[wiki/concepts/hope-und-fear|Hope und Fear]] als Motor fuer Kontrolle, Kosten und Konsequenzen.
 
+## Startvarianten
+
+- [[wiki/events/der-dschinn-in-der-mine|Der Dschinn in der Mine]]: bisheriger vorlaeufiger Start-Arc mit Mine, Wassermechanik und [[wiki/entities/items/tau|Tau]].
+- [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]]: neuer Sandbox-Start mit Krater, [[wiki/concepts/psynergy-stein|Psynergy-Stein]], mutierter Natur und Fraktionsuhren.
+
+## Widersprueche / Unsicherheiten
+
+- Offen ist, welcher Start als kanonischer Kampagnenauftakt gilt oder ob beide kombiniert werden.
+- Offen ist, ob **Weyard: Schatten der Leuchttuerme** oder **Golden Sun - Das gebrochene Siegel** der bevorzugte Arbeitstitel ist.
+
 ## Quellen
 
 - [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]]
 - [[wiki/sources/02-praemisse-und-ton|Praemisse und Ton]]
 - [[wiki/sources/09-session-zero|Session Zero]]
+- [[wiki/sources/campaign-frame|Campaign Frame]]
+- [[wiki/sources/factions|Factions]]

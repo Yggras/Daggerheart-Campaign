@@ -2,8 +2,8 @@
 type: event
 status: active
 created: 2026-05-15
-updated: 2026-05-15
-sources: [01-kampagnenueberblick, 07-orte-und-regionen, 10-erster-handlungsbogen, 11-offene-fragen-und-entscheidungen]
+updated: 2026-05-16
+sources: [01-kampagnenueberblick, 07-orte-und-regionen, 10-erster-handlungsbogen, 11-offene-fragen-und-entscheidungen, campaign-frame, factions]
 tags: [arc, start]
 ---
 
@@ -36,9 +36,15 @@ Der Dschinn in der Mine ist der vorlaeufige erste Handlungsbogen der Kampagne. E
 - Tau binden und eine riskante Balance schaffen.
 - Den Patron taeuschen oder die Wahrheit offenlegen.
 
+## Widersprueche / Unsicherheiten
+
+- Der neue Start [[wiki/events/beben-und-kraterfund|Beben und Kraterfund]] konkurriert mit diesem Arc als Kampagnenauftakt. Noch offen ist, ob die Mine Start bleibt, ob der Krater-Start sie ersetzt oder ob beide nacheinander verbunden werden.
+
 ## Quellen
 
 - [[wiki/sources/01-kampagnenueberblick|Kampagnenueberblick]]
 - [[wiki/sources/07-orte-und-regionen|Orte und Regionen]]
 - [[wiki/sources/10-erster-handlungsbogen|Erster Handlungsbogen]]
 - [[wiki/sources/11-offene-fragen-und-entscheidungen|Offene Fragen und Entscheidungen]]
+- [[wiki/sources/campaign-frame|Campaign Frame]]
+- [[wiki/sources/factions|Factions]]

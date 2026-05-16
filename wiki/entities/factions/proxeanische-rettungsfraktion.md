@@ -2,8 +2,8 @@
 type: faction
 status: active
 created: 2026-05-15
-updated: 2026-05-15
-sources: [06-fraktionen, 07-orte-und-regionen, 08-nsc-und-schluesselfiguren]
+updated: 2026-05-16
+sources: [06-fraktionen, 07-orte-und-regionen, 08-nsc-und-schluesselfiguren, factions]
 tags: [faction, prox]
 ---
 
@@ -24,8 +24,17 @@ Die Proxeanische Rettungsfraktion besteht aus Menschen aus dem Norden und vom Ra
 
 Sie haben vermutlich recht mit der Diagnose, liegen aber moeglicherweise falsch bei Methode, Tempo und Kollateralschaden.
 
+## Verwandte Zuspitzungen
+
+- [[wiki/entities/factions/entfessler|Entfessler]]: moegliche Vorhut oder alternative Bezeichnung fuer eine radikalisierte nordische Alchemie-Befreiungsfraktion.
+
+## Widersprueche / Unsicherheiten
+
+- Unklar ist, ob die [[wiki/entities/factions/entfessler|Entfessler]] eine eigenstaendige Fraktion sind oder eine zugespitzte Spieltisch-Bezeichnung fuer Teile der Proxeanischen Rettungsfraktion.
+
 ## Quellen
 
 - [[wiki/sources/06-fraktionen|Fraktionen]]
 - [[wiki/sources/07-orte-und-regionen|Orte und Regionen]]
 - [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]]
+- [[wiki/sources/factions|Factions]]

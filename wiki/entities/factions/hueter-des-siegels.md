@@ -2,8 +2,8 @@
 type: faction
 status: active
 created: 2026-05-15
-updated: 2026-05-15
-sources: [06-fraktionen, 08-nsc-und-schluesselfiguren]
+updated: 2026-05-16
+sources: [06-fraktionen, 08-nsc-und-schluesselfiguren, factions]
 tags: [faction, alchemy]
 ---
 
@@ -24,7 +24,12 @@ Die Hueter des Siegels sind traditionelle Waechter von [[wiki/entities/places/so
 
 Alte wollen Schweigen, Junge Wahrheit, Pragmatiker kontrollierte Freisetzung und Fanatiker alle Leuchtturmexpeditionen stoppen.
 
+## Splittergruppen
+
+- [[wiki/entities/factions/puritanische-waechter|Puritanische Waechter]]: moegliche fanatische Jenei-Splittergruppe, die das Siegel mit toedlichen Mitteln schuetzt.
+
 ## Quellen
 
 - [[wiki/sources/06-fraktionen|Fraktionen]]
 - [[wiki/sources/08-nsc-und-schluesselfiguren|NSC und Schluesselfiguren]]
+- [[wiki/sources/factions|Factions]]

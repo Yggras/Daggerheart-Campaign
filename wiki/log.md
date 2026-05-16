@@ -29,3 +29,13 @@ Pages updated: wiki/index, wiki/overview, wiki/questions/open-questions, wiki/lo
 - 13 bereits ingestierte Quellen von `raw/inbox/` nach `raw/sources/` verschoben.
 - Source-Summaries in `wiki/sources/` auf die finalen Originalpfade `raw/sources/...` aktualisiert.
 - `wiki-ingest` wurde zuvor so angepasst, dass kuenftige Ingests diese Verschiebung automatisch nach erfolgreichem Wiki-Update durchfuehren.
+
+## [2026-05-16] ingest | Campaign Frame und Factions
+
+Pages written: campaign-frame, factions, beben-und-kraterfund, entfessler, schattensammler, mutierte-natur, lokalfuerst-von-gondowan, puritanische-waechter
+
+Pages updated: wiki/index, wiki/overview, wiki/questions/open-questions, wiki/syntheses/kampagnenkern, wiki/concepts/dschinn, wiki/concepts/psynergy-stein, wiki/events/der-dschinn-in-der-mine, wiki/events/leuchtturmkrise, wiki/events/weltverfall, wiki/entities/factions/proxeanische-rettungsfraktion, wiki/entities/factions/dschinn-sucher, wiki/entities/factions/lokale-autoritaeten, wiki/entities/factions/hueter-des-siegels
+
+Source moved: raw/inbox/Campaign-frame.txt -> raw/sources/Campaign-frame.txt
+
+Source moved: raw/inbox/Factions.txt -> raw/sources/Factions.txt
