@@ -1,0 +1,41 @@
+{
+  "skill_name": "daggerheart-golden-sun-cocreator",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Wir brauchen eine neue Fraktion fuer unsere Golden-Sun-Daggerheart-Kampagne. Sie soll proaktiv handeln und nicht nur als Questgeber funktionieren. Bitte interviewe mich dazu.",
+      "expected_output": "The assistant reads the wiki operating context, asks exactly one German interview question, provides exactly three concrete faction suggestions, marks one recommendation, and does not write wiki pages yet.",
+      "files": [],
+      "expectations": [
+        "The output asks exactly one interview question, not a full questionnaire.",
+        "The output provides exactly three concrete numbered suggestions.",
+        "The output includes an explicit Empfehlung with a brief reason.",
+        "The suggestions create proactive faction pressure, agendas, or player-facing choices."
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "Hilf mir, ein Psynergy-Raetsel fuer eine Stadt in Weyard zu entwickeln. Es soll Golden-Sun-Feeling haben, aber am Tisch nicht wie ein Videospiel-Schalterraetsel wirken.",
+      "expected_output": "The assistant starts a German one-question interview with three options and a recommendation, explicitly frames the puzzle as a tabletop situation with multiple solutions, and connects it to Psynergy and Daggerheart Hope/Fear.",
+      "files": [],
+      "expectations": [
+        "The output asks exactly one interview question instead of fully designing the puzzle.",
+        "The output provides exactly three concrete suggestions and one Empfehlung.",
+        "The puzzle framing avoids a single video-game switch solution and supports multiple tabletop approaches.",
+        "The output connects the topic to Psynergy or the four elements and to Daggerheart Hope/Fear."
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Das Thema ist fertig: Schreib unsere Entscheidungen zum NPC 'Nara, die Merkur-Seherin' in eine Datei unter raw/inbox. Wir haben externe Infos zu Imil und Merkur-Leuchtturm benutzt, bitte sichere die Quellen auch.",
+      "expected_output": "The assistant creates a raw/inbox decision Markdown file with the required sections, creates or references raw/sources captures for external sources, and avoids modifying wiki pages directly.",
+      "files": [],
+      "expectations": [
+        "The run creates a Markdown decision file under outputs/raw/inbox/.",
+        "The run creates web source captures under outputs/raw/sources/ with URLs, access dates, and supporting details.",
+        "The decision file includes the required sections for interview decisions, proactive play, Golden Sun, Daggerheart, open questions, sources, and conversation notes.",
+        "The run avoids modifying wiki pages directly and marks missing details as open rather than inventing them as canon."
+      ]
+    }
+  ]
+}

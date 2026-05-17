@@ -1,0 +1,11 @@
+{
+  "eval_id": 0,
+  "eval_name": "faction-interview",
+  "prompt": "Wir brauchen eine neue Fraktion fuer unsere Golden-Sun-Daggerheart-Kampagne. Sie soll proaktiv handeln und nicht nur als Questgeber funktionieren. Bitte interviewe mich dazu.",
+  "assertions": [
+    "The output asks exactly one interview question, not a full questionnaire.",
+    "The output provides exactly three concrete numbered suggestions.",
+    "The output includes an explicit Empfehlung with a brief reason.",
+    "The suggestions create proactive faction pressure, agendas, or player-facing choices."
+  ]
+}

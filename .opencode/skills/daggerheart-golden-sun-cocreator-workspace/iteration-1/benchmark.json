@@ -1,0 +1,37 @@
+{
+  "metadata": {
+    "skill_name": "daggerheart-golden-sun-cocreator",
+    "skill_path": "/home/yggras/Development/Daggerheart-Campaign/.opencode/skills/daggerheart-golden-sun-cocreator",
+    "executor_model": "openai/gpt-5.5",
+    "analyzer_model": "openai/gpt-5.5",
+    "timestamp": "2026-05-17T00:00:00Z",
+    "evals_run": [0, 1, 2],
+    "runs_per_configuration": 1
+  },
+  "runs": [
+    {"eval_id": 0, "eval_name": "faction-interview", "configuration": "with_skill", "run_number": 1, "result": {"pass_rate": 1.0, "passed": 4, "failed": 0, "total": 4, "time_seconds": 0.0, "tokens": 709, "tool_calls": 0, "errors": 0}, "expectations": []},
+    {"eval_id": 0, "eval_name": "faction-interview", "configuration": "without_skill", "run_number": 1, "result": {"pass_rate": 0.25, "passed": 1, "failed": 3, "total": 4, "time_seconds": 0.0, "tokens": 2920, "tool_calls": 0, "errors": 0}, "expectations": []},
+    {"eval_id": 1, "eval_name": "psynergy-puzzle", "configuration": "with_skill", "run_number": 1, "result": {"pass_rate": 0.5, "passed": 2, "failed": 2, "total": 4, "time_seconds": 0.0, "tokens": 5135, "tool_calls": 0, "errors": 0}, "expectations": []},
+    {"eval_id": 1, "eval_name": "psynergy-puzzle", "configuration": "without_skill", "run_number": 1, "result": {"pass_rate": 0.5, "passed": 2, "failed": 2, "total": 4, "time_seconds": 0.0, "tokens": 4410, "tool_calls": 0, "errors": 0}, "expectations": []},
+    {"eval_id": 2, "eval_name": "persist-npc-sources", "configuration": "with_skill", "run_number": 1, "result": {"pass_rate": 1.0, "passed": 4, "failed": 0, "total": 4, "time_seconds": 0.0, "tokens": 8890, "tool_calls": 0, "errors": 0}, "expectations": []},
+    {"eval_id": 2, "eval_name": "persist-npc-sources", "configuration": "without_skill", "run_number": 1, "result": {"pass_rate": 0.5, "passed": 2, "failed": 2, "total": 4, "time_seconds": 0.0, "tokens": 3210, "tool_calls": 0, "errors": 0}, "expectations": []}
+  ],
+  "run_summary": {
+    "with_skill": {
+      "pass_rate": {"mean": 0.8333, "stddev": 0.2887, "min": 0.5, "max": 1.0},
+      "time_seconds": {"mean": 0.0, "stddev": 0.0, "min": 0.0, "max": 0.0},
+      "tokens": {"mean": 4911, "stddev": 4092, "min": 709, "max": 8890}
+    },
+    "without_skill": {
+      "pass_rate": {"mean": 0.4167, "stddev": 0.1443, "min": 0.25, "max": 0.5},
+      "time_seconds": {"mean": 0.0, "stddev": 0.0, "min": 0.0, "max": 0.0},
+      "tokens": {"mean": 3513, "stddev": 784, "min": 2920, "max": 4410}
+    },
+    "delta": {"pass_rate": "+0.42", "time_seconds": "+0.0", "tokens": "+1398"}
+  },
+  "notes": [
+    "The skill improves interview formatting and source-persistence behavior over baseline.",
+    "The Psynergy puzzle eval exposed a real instruction-following gap: the skilled run produced a full design instead of asking one interview question with three options.",
+    "Timing and true token data were unavailable from the Task tool notification, so the token field uses output character counts and time is 0.0."
+  ]
+}

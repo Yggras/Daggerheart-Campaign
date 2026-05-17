@@ -1,0 +1,28 @@
+{
+  "expectations": [
+    {
+      "text": "The output asks exactly one interview question, not a full questionnaire.",
+      "passed": true,
+      "evidence": "The output contains one '**Frage:**' line and no additional questions."
+    },
+    {
+      "text": "The output provides exactly three concrete numbered suggestions.",
+      "passed": true,
+      "evidence": "The output has options 1, 2, and 3 only."
+    },
+    {
+      "text": "The output includes an explicit Empfehlung with a brief reason.",
+      "passed": true,
+      "evidence": "Line 7 starts with '**Empfehlung:**' and gives a reason."
+    },
+    {
+      "text": "The suggestions create proactive faction pressure, agendas, or player-facing choices.",
+      "passed": true,
+      "evidence": "The options frame a third position, active start-region power, and radical Dschinn liberators with player-facing moral choices."
+    }
+  ],
+  "summary": {"passed": 4, "failed": 0, "total": 4, "pass_rate": 1.0},
+  "execution_metrics": {"total_tool_calls": 0, "total_steps": 0, "errors_encountered": 0, "output_chars": 709, "transcript_chars": 0},
+  "timing": {"total_duration_seconds": 0.0},
+  "user_notes_summary": {"uncertainties": ["Task tool did not expose token or duration data in the completion notification."], "needs_review": [], "workarounds": []}
+}

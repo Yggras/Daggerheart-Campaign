@@ -1,0 +1,28 @@
+{
+  "expectations": [
+    {
+      "text": "The output asks exactly one interview question, not a full questionnaire.",
+      "passed": false,
+      "evidence": "The output contains six question blocks and asks the user to answer three questions at the end."
+    },
+    {
+      "text": "The output provides exactly three concrete numbered suggestions.",
+      "passed": false,
+      "evidence": "The output provides many numbered choices across multiple blocks, not three suggestions."
+    },
+    {
+      "text": "The output includes an explicit Empfehlung with a brief reason.",
+      "passed": false,
+      "evidence": "No Empfehlung section is present."
+    },
+    {
+      "text": "The suggestions create proactive faction pressure, agendas, or player-facing choices.",
+      "passed": true,
+      "evidence": "The output asks about proactive goals, moral tone, pressure, and first visible action."
+    }
+  ],
+  "summary": {"passed": 1, "failed": 3, "total": 4, "pass_rate": 0.25},
+  "execution_metrics": {"total_tool_calls": 0, "total_steps": 0, "errors_encountered": 0, "output_chars": 2920, "transcript_chars": 0},
+  "timing": {"total_duration_seconds": 0.0},
+  "user_notes_summary": {"uncertainties": ["Task tool did not expose token or duration data in the completion notification."], "needs_review": [], "workarounds": []}
+}

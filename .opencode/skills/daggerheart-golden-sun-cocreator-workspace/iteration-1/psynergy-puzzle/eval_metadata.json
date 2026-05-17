@@ -1,0 +1,11 @@
+{
+  "eval_id": 1,
+  "eval_name": "psynergy-puzzle",
+  "prompt": "Hilf mir, ein Psynergy-Raetsel fuer eine Stadt in Weyard zu entwickeln. Es soll Golden-Sun-Feeling haben, aber am Tisch nicht wie ein Videospiel-Schalterraetsel wirken.",
+  "assertions": [
+    "The output asks exactly one interview question instead of fully designing the puzzle.",
+    "The output provides exactly three concrete suggestions and one Empfehlung.",
+    "The puzzle framing avoids a single video-game switch solution and supports multiple tabletop approaches.",
+    "The output connects the topic to Psynergy or the four elements and to Daggerheart Hope/Fear."
+  ]
+}

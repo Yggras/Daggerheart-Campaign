@@ -1,0 +1,11 @@
+{
+  "eval_id": 2,
+  "eval_name": "persist-npc-sources",
+  "prompt": "Das Thema ist fertig: Schreib unsere Entscheidungen zum NPC 'Nara, die Merkur-Seherin' in eine Datei unter raw/inbox. Wir haben externe Infos zu Imil und Merkur-Leuchtturm benutzt, bitte sichere die Quellen auch.",
+  "assertions": [
+    "The run creates a Markdown decision file under outputs/raw/inbox/.",
+    "The run creates web source captures under outputs/raw/sources/ with URLs, access dates, and supporting details.",
+    "The decision file includes the required sections for interview decisions, proactive play, Golden Sun, Daggerheart, open questions, sources, and conversation notes.",
+    "The run avoids modifying wiki pages directly and marks missing details as open rather than inventing them as canon."
+  ]
+}

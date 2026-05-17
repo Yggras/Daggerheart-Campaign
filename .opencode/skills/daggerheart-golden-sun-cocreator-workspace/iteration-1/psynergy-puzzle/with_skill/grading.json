@@ -1,0 +1,28 @@
+{
+  "expectations": [
+    {
+      "text": "The output asks exactly one interview question instead of fully designing the puzzle.",
+      "passed": false,
+      "evidence": "The output delivers a complete puzzle design and does not ask an interview question."
+    },
+    {
+      "text": "The output provides exactly three concrete suggestions and one Empfehlung.",
+      "passed": false,
+      "evidence": "The output provides three solution paths but no interview-format suggestions or Empfehlung."
+    },
+    {
+      "text": "The puzzle framing avoids a single video-game switch solution and supports multiple tabletop approaches.",
+      "passed": true,
+      "evidence": "The output explicitly says there is no single correct operating pattern and provides elemental, social, and risky alchemical solution paths."
+    },
+    {
+      "text": "The output connects the topic to Psynergy or the four elements and to Daggerheart Hope/Fear.",
+      "passed": true,
+      "evidence": "The output discusses Psynergy, Venus/Mars/Jupiter/Merkur, a clock, and Hope/Fear interpretations."
+    }
+  ],
+  "summary": {"passed": 2, "failed": 2, "total": 4, "pass_rate": 0.5},
+  "execution_metrics": {"total_tool_calls": 0, "total_steps": 0, "errors_encountered": 0, "output_chars": 5135, "transcript_chars": 0},
+  "timing": {"total_duration_seconds": 0.0},
+  "user_notes_summary": {"uncertainties": ["The skill did not sufficiently force the interview format when the user asked for direct help."], "needs_review": [], "workarounds": []}
+}

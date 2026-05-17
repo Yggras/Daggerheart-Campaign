@@ -1,0 +1,28 @@
+{
+  "expectations": [
+    {
+      "text": "The run creates a Markdown decision file under outputs/raw/inbox/.",
+      "passed": true,
+      "evidence": "Created outputs/raw/inbox/nara-merkur-seherin-entscheidungen.md."
+    },
+    {
+      "text": "The run creates web source captures under outputs/raw/sources/ with URLs, access dates, and supporting details.",
+      "passed": false,
+      "evidence": "The Imil source capture has no concrete URL or access date and says concrete external URLs should be added later."
+    },
+    {
+      "text": "The decision file includes the required sections for interview decisions, proactive play, Golden Sun, Daggerheart, open questions, sources, and conversation notes.",
+      "passed": false,
+      "evidence": "The decision file lacks the required Anlass, Proaktive Spielleitung, Daggerheart-Bezug, Verwendete Quellen, and Gespraechsnotizen sections."
+    },
+    {
+      "text": "The run avoids modifying wiki pages directly and marks missing details as open rather than inventing them as canon.",
+      "passed": true,
+      "evidence": "The final response says real raw/wiki directories were not changed, and the decision file has an Offene Punkte section."
+    }
+  ],
+  "summary": {"passed": 2, "failed": 2, "total": 4, "pass_rate": 0.5},
+  "execution_metrics": {"total_tool_calls": 0, "total_steps": 0, "errors_encountered": 0, "output_chars": 3210, "transcript_chars": 0},
+  "timing": {"total_duration_seconds": 0.0},
+  "user_notes_summary": {"uncertainties": ["Task tool did not expose token or duration data in the completion notification."], "needs_review": [], "workarounds": []}
+}

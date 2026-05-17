@@ -1,0 +1,28 @@
+{
+  "expectations": [
+    {
+      "text": "The run creates a Markdown decision file under outputs/raw/inbox/.",
+      "passed": true,
+      "evidence": "Created outputs/raw/inbox/2026-05-17-interview-nara-merkur-seherin.md."
+    },
+    {
+      "text": "The run creates web source captures under outputs/raw/sources/ with URLs, access dates, and supporting details.",
+      "passed": true,
+      "evidence": "Created two source captures with URL, Abrufdatum, summaries, and relevant quoted lines."
+    },
+    {
+      "text": "The decision file includes the required sections for interview decisions, proactive play, Golden Sun, Daggerheart, open questions, sources, and conversation notes.",
+      "passed": true,
+      "evidence": "The file includes Anlass, Endentscheidungen, Proaktive Spielleitung, Golden-Sun-Bezug, Daggerheart-Bezug, Offene Fragen, Verwendete Quellen, and Gespraechsnotizen."
+    },
+    {
+      "text": "The run avoids modifying wiki pages directly and marks missing details as open rather than inventing them as canon.",
+      "passed": true,
+      "evidence": "The final response says no real wiki/raw files were changed, and the decision file marks unresolved NPC details under Offene Fragen."
+    }
+  ],
+  "summary": {"passed": 4, "failed": 0, "total": 4, "pass_rate": 1.0},
+  "execution_metrics": {"total_tool_calls": 0, "total_steps": 0, "errors_encountered": 0, "output_chars": 8890, "transcript_chars": 0},
+  "timing": {"total_duration_seconds": 0.0},
+  "user_notes_summary": {"uncertainties": ["No concrete prior interview transcript was available, so several NPC details remain intentionally open."], "needs_review": [], "workarounds": []}
+}
